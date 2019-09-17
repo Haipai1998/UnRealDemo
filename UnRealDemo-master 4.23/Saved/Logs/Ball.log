@@ -1070,3 +1070,236 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.09.17-08.08.48:407][905]LogSavePackage: Moving '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Saved/Level1A64B76D141F5CD806DE49B9BE25E4724.tmp' to '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/Maps/Level1.umap'
 [2019.09.17-08.08.48:457][905]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1_BuiltData" FILE="../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/Maps/Level1_BuiltData.uasset" SILENT=true
 [2019.09.17-08.08.48:621][905]LogSavePackage: Moving '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Saved/Level1_BuiltDataF5D43E524C097D8E659A74B4320A174B.tmp' to '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/Maps/Level1_BuiltData.uasset'
+[2019.09.17-08.09.13:666][139]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2019.09.17-08.09.14:106][161]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.09.17-08.09.14:106][161]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2019.09.17-08.10.59:874][563]LogTemp: Repeating last play command: Simulate
+[2019.09.17-08.10.59:917][563]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.09.17-08.10.59:917][563]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.17-08.10.59:923][563]PIE: New page: SIE session: Level1 (2019年9月18日 上午12:10:59)
+[2019.09.17-08.10.59:924][563]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2019.09.17-08.10.59:968][563]LogPlayLevel: PIE: StaticDuplicateObject took: (0.043707s)
+[2019.09.17-08.10.59:972][563]LogAIModule: Creating AISystem for world Level1
+[2019.09.17-08.10.59:974][563]LogPlayLevel: PIE: World Init took: (0.005527s)
+[2019.09.17-08.10.59:974][563]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.049946s)
+[2019.09.17-08.11.00:195][563]LogUObjectHash: Compacting FUObjectHashTables data took  11.72ms
+[2019.09.17-08.11.00:224][563]LogInit: XAudio2 using '扬声器 (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.17-08.11.00:277][563]LogInit: FAudioDevice initialized.
+[2019.09.17-08.11.00:310][563]LogLoad: Game class is 'GameModeBase'
+[2019.09.17-08.11.00:324][563]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.09.17-16.11.00
+[2019.09.17-08.11.00:333][563]LogWorld: Bringing up level for play took: 0.016076
+[2019.09.17-08.11.00:337][563]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2019.09.17-08.11.00:349][563]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.09.17-08.11.00:361][563]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level1 -0.531
+[2019.09.17-08.11.00:382][563]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.09.17-08.11.06:073][685]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.09.17-08.11.06:075][685]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.17-08.11.06:076][685]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2019.09.17-08.11.06:079][685]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2019.09.17-08.11.06:152][685]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.17-08.11.06:152][685]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.09.17-08.11.06:207][685]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.17-08.11.06:287][685]LogUObjectHash: Compacting FUObjectHashTables data took   5.22ms
+[2019.09.17-08.11.06:317][686]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.09.17-08.11.39:663][932]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.17-08.11.39:729][936]LogTemp: Repeating last play command: Simulate
+[2019.09.17-08.11.39:751][936]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.09.17-08.11.39:752][936]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.17-08.11.39:752][936]PIE: New page: SIE session: Level1 (2019年9月18日 上午12:11:39)
+[2019.09.17-08.11.39:752][936]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2019.09.17-08.11.39:787][936]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035101s)
+[2019.09.17-08.11.39:789][936]LogAIModule: Creating AISystem for world Level1
+[2019.09.17-08.11.39:797][936]LogPlayLevel: PIE: World Init took: (0.009569s)
+[2019.09.17-08.11.39:797][936]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.044995s)
+[2019.09.17-08.11.39:861][936]LogUObjectHash: Compacting FUObjectHashTables data took   4.53ms
+[2019.09.17-08.11.39:875][936]LogInit: XAudio2 using '扬声器 (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.17-08.11.39:916][936]LogInit: FAudioDevice initialized.
+[2019.09.17-08.11.39:927][936]LogLoad: Game class is 'GameModeBase'
+[2019.09.17-08.11.39:932][936]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.09.17-16.11.39
+[2019.09.17-08.11.39:933][936]LogWorld: Bringing up level for play took: 0.004539
+[2019.09.17-08.11.39:933][936]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2019.09.17-08.11.39:936][936]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.09.17-08.11.39:937][936]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level1 1.045
+[2019.09.17-08.11.39:940][936]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.09.17-08.11.42:939][ 38]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.09.17-08.11.42:940][ 38]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.17-08.11.42:940][ 38]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2019.09.17-08.11.42:942][ 38]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2019.09.17-08.11.43:003][ 38]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.17-08.11.43:003][ 38]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.09.17-08.11.43:044][ 38]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.17-08.11.43:048][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2019.09.17-08.11.43:071][ 39]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.09.17-08.12.13:674][843]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.17-08.12.13:756][848]LogTemp: Repeating last play command: Simulate
+[2019.09.17-08.12.13:772][848]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.09.17-08.12.13:772][848]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.17-08.12.13:772][848]PIE: New page: SIE session: Level1 (2019年9月18日 上午12:12:13)
+[2019.09.17-08.12.13:772][848]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2019.09.17-08.12.13:792][848]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019843s)
+[2019.09.17-08.12.13:793][848]LogAIModule: Creating AISystem for world Level1
+[2019.09.17-08.12.13:793][848]LogPlayLevel: PIE: World Init took: (0.001104s)
+[2019.09.17-08.12.13:793][848]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.021087s)
+[2019.09.17-08.12.13:829][848]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2019.09.17-08.12.13:837][848]LogInit: XAudio2 using '扬声器 (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.17-08.12.13:865][848]LogInit: FAudioDevice initialized.
+[2019.09.17-08.12.13:873][848]LogLoad: Game class is 'GameModeBase'
+[2019.09.17-08.12.13:876][848]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.09.17-16.12.13
+[2019.09.17-08.12.13:877][848]LogWorld: Bringing up level for play took: 0.002424
+[2019.09.17-08.12.13:877][848]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2019.09.17-08.12.13:879][848]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.09.17-08.12.13:880][848]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level1 0.988
+[2019.09.17-08.12.13:881][848]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.09.17-08.12.16:719][939]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.17-08.12.53:736][400]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.17-08.13.20:169][915]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.09.17-08.13.20:169][915]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.17-08.13.20:169][915]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2019.09.17-08.13.20:172][915]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2019.09.17-08.13.20:235][915]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.17-08.13.20:235][915]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.09.17-08.13.20:285][915]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.17-08.13.20:290][915]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2019.09.17-08.13.20:310][916]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.09.17-08.13.22:375][956]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.17-08.21.42:554][485]LogHttp: Warning: 00000129A4682C00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B349D415E-456C-D96E-3127-9484B8832BAC%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=ebf3b58a4f9bf9dca1ba45a9f9cbf833%7C6cd29e672a584f96bacd2c98d8ebb62e%7C3eced006-bca4-4df5-8e1d-f2f6128de514&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.09.17-08.21.42:554][485]LogHttp: Warning: 00000129A4682C00: request failed, libcurl error: 0 (No error)
+[2019.09.17-08.21.42:555][485]LogHttp: Warning: 00000129A4682C00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x129de4c7f70 [can pipeline])
+[2019.09.17-08.21.42:555][485]LogHttp: Warning: 00000129A4682C00: libcurl info message cache 1 (Re-using existing connection! (#100) with host datarouter.ol.epicgames.com)
+[2019.09.17-08.21.42:555][485]LogHttp: Warning: 00000129A4682C00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.88.198.7) port 443 (#100))
+[2019.09.17-08.21.42:555][485]LogHttp: Warning: 00000129A4682C00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.09.17-08.21.42:555][485]LogHttp: Warning: 00000129A4682C00: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.09.17-08.21.42:555][485]LogHttp: Warning: 00000129A4682C00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.09.17-08.21.42:555][485]LogHttp: Warning: 00000129A4682C00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.09.17-08.21.42:555][485]LogHttp: Warning: 00000129A4682C00: libcurl info message cache 7 (Closing connection 100)
+[2019.09.17-08.21.42:555][485]LogHttp: Warning: 00000129A4682C00: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.09.17-08.21.42:890][486]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B349D415E-456C-D96E-3127-9484B8832BAC%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=ebf3b58a4f9bf9dca1ba45a9f9cbf833%7C6cd29e672a584f96bacd2c98d8ebb62e%7C3eced006-bca4-4df5-8e1d-f2f6128de514&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.17-08.27.42:341][556]LogHttp: Warning: 00000129A4683EC0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B349D415E-456C-D96E-3127-9484B8832BAC%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=ebf3b58a4f9bf9dca1ba45a9f9cbf833%7C6cd29e672a584f96bacd2c98d8ebb62e%7C3eced006-bca4-4df5-8e1d-f2f6128de514&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.09.17-08.27.42:341][556]LogHttp: Warning: 00000129A4683EC0: request failed, libcurl error: 0 (No error)
+[2019.09.17-08.27.42:341][556]LogHttp: Warning: 00000129A4683EC0: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x129de4c7f70 [can pipeline])
+[2019.09.17-08.27.42:341][556]LogHttp: Warning: 00000129A4683EC0: libcurl info message cache 1 (Re-using existing connection! (#102) with host datarouter.ol.epicgames.com)
+[2019.09.17-08.27.42:341][556]LogHttp: Warning: 00000129A4683EC0: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.4.127.66) port 443 (#102))
+[2019.09.17-08.27.42:341][556]LogHttp: Warning: 00000129A4683EC0: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.09.17-08.27.42:341][556]LogHttp: Warning: 00000129A4683EC0: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.09.17-08.27.42:341][556]LogHttp: Warning: 00000129A4683EC0: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.09.17-08.27.42:341][556]LogHttp: Warning: 00000129A4683EC0: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.09.17-08.27.42:341][556]LogHttp: Warning: 00000129A4683EC0: libcurl info message cache 7 (Closing connection 102)
+[2019.09.17-08.27.42:341][556]LogHttp: Warning: 00000129A4683EC0: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.09.17-08.27.42:341][556]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B349D415E-456C-D96E-3127-9484B8832BAC%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=ebf3b58a4f9bf9dca1ba45a9f9cbf833%7C6cd29e672a584f96bacd2c98d8ebb62e%7C3eced006-bca4-4df5-8e1d-f2f6128de514&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.17-08.42.42:470][235]LogHttp: Warning: 00000129A4680400: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B349D415E-456C-D96E-3127-9484B8832BAC%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=ebf3b58a4f9bf9dca1ba45a9f9cbf833%7C6cd29e672a584f96bacd2c98d8ebb62e%7C3eced006-bca4-4df5-8e1d-f2f6128de514&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.09.17-08.42.42:471][235]LogHttp: Warning: 00000129A4680400: request failed, libcurl error: 0 (No error)
+[2019.09.17-08.42.42:471][235]LogHttp: Warning: 00000129A4680400: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x129de4c7f70 [can pipeline])
+[2019.09.17-08.42.42:471][235]LogHttp: Warning: 00000129A4680400: libcurl info message cache 1 (Re-using existing connection! (#108) with host datarouter.ol.epicgames.com)
+[2019.09.17-08.42.42:471][235]LogHttp: Warning: 00000129A4680400: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (50.19.78.72) port 443 (#108))
+[2019.09.17-08.42.42:471][235]LogHttp: Warning: 00000129A4680400: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.09.17-08.42.42:471][235]LogHttp: Warning: 00000129A4680400: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.09.17-08.42.42:471][235]LogHttp: Warning: 00000129A4680400: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.09.17-08.42.42:471][235]LogHttp: Warning: 00000129A4680400: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.09.17-08.42.42:471][235]LogHttp: Warning: 00000129A4680400: libcurl info message cache 7 (Closing connection 108)
+[2019.09.17-08.42.42:471][235]LogHttp: Warning: 00000129A4680400: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.09.17-08.42.42:805][236]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B349D415E-456C-D96E-3127-9484B8832BAC%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=ebf3b58a4f9bf9dca1ba45a9f9cbf833%7C6cd29e672a584f96bacd2c98d8ebb62e%7C3eced006-bca4-4df5-8e1d-f2f6128de514&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.17-09.19.42:531][858]LogHttp: Warning: 00000129A4682480: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B349D415E-456C-D96E-3127-9484B8832BAC%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=ebf3b58a4f9bf9dca1ba45a9f9cbf833%7C6cd29e672a584f96bacd2c98d8ebb62e%7C3eced006-bca4-4df5-8e1d-f2f6128de514&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.09.17-09.19.42:531][858]LogHttp: Warning: 00000129A4682480: request failed, libcurl error: 0 (No error)
+[2019.09.17-09.19.42:531][858]LogHttp: Warning: 00000129A4682480: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x129de4c7f70 [can pipeline])
+[2019.09.17-09.19.42:531][858]LogHttp: Warning: 00000129A4682480: libcurl info message cache 1 (Re-using existing connection! (#124) with host datarouter.ol.epicgames.com)
+[2019.09.17-09.19.42:531][858]LogHttp: Warning: 00000129A4682480: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.21.102.187) port 443 (#124))
+[2019.09.17-09.19.42:531][858]LogHttp: Warning: 00000129A4682480: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.09.17-09.19.42:531][858]LogHttp: Warning: 00000129A4682480: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.09.17-09.19.42:531][858]LogHttp: Warning: 00000129A4682480: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.09.17-09.19.42:532][858]LogHttp: Warning: 00000129A4682480: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.09.17-09.19.42:532][858]LogHttp: Warning: 00000129A4682480: libcurl info message cache 7 (Closing connection 124)
+[2019.09.17-09.19.42:532][858]LogHttp: Warning: 00000129A4682480: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.09.17-09.19.42:532][858]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B349D415E-456C-D96E-3127-9484B8832BAC%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=ebf3b58a4f9bf9dca1ba45a9f9cbf833%7C6cd29e672a584f96bacd2c98d8ebb62e%7C3eced006-bca4-4df5-8e1d-f2f6128de514&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.17-09.27.42:510][282]LogHttp: Warning: 00000129A4682200: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B349D415E-456C-D96E-3127-9484B8832BAC%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=ebf3b58a4f9bf9dca1ba45a9f9cbf833%7C6cd29e672a584f96bacd2c98d8ebb62e%7C3eced006-bca4-4df5-8e1d-f2f6128de514&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.09.17-09.27.42:510][282]LogHttp: Warning: 00000129A4682200: request failed, libcurl error: 0 (No error)
+[2019.09.17-09.27.42:510][282]LogHttp: Warning: 00000129A4682200: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x129de4c7f70 [can pipeline])
+[2019.09.17-09.27.42:510][282]LogHttp: Warning: 00000129A4682200: libcurl info message cache 1 (Re-using existing connection! (#127) with host datarouter.ol.epicgames.com)
+[2019.09.17-09.27.42:510][282]LogHttp: Warning: 00000129A4682200: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.23.98.45) port 443 (#127))
+[2019.09.17-09.27.42:510][282]LogHttp: Warning: 00000129A4682200: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.09.17-09.27.42:510][282]LogHttp: Warning: 00000129A4682200: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.09.17-09.27.42:510][282]LogHttp: Warning: 00000129A4682200: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.09.17-09.27.42:519][282]LogHttp: Warning: 00000129A4682200: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.09.17-09.27.42:519][282]LogHttp: Warning: 00000129A4682200: libcurl info message cache 7 (Closing connection 127)
+[2019.09.17-09.27.42:519][282]LogHttp: Warning: 00000129A4682200: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.09.17-09.27.42:519][282]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B349D415E-456C-D96E-3127-9484B8832BAC%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=ebf3b58a4f9bf9dca1ba45a9f9cbf833%7C6cd29e672a584f96bacd2c98d8ebb62e%7C3eced006-bca4-4df5-8e1d-f2f6128de514&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.17-09.33.56:042][643]LogEditorViewport: Clicking on Actor (LMB): BP_Player_C (BP_Player)
+[2019.09.17-09.33.58:326][692]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.17-09.34.00:347][737]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.17-09.34.00:438][739]LogTemp: Repeating last play command: Simulate
+[2019.09.17-09.34.00:466][739]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.09.17-09.34.00:466][739]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.17-09.34.00:467][739]PIE: New page: SIE session: Level1 (2019年9月18日 上午1:34:00)
+[2019.09.17-09.34.00:467][739]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2019.09.17-09.34.00:500][739]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032897s)
+[2019.09.17-09.34.00:502][739]LogAIModule: Creating AISystem for world Level1
+[2019.09.17-09.34.00:503][739]LogPlayLevel: PIE: World Init took: (0.002665s)
+[2019.09.17-09.34.00:503][739]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.035863s)
+[2019.09.17-09.34.00:545][739]LogUObjectHash: Compacting FUObjectHashTables data took   4.47ms
+[2019.09.17-09.34.00:557][739]LogInit: XAudio2 using '扬声器 (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.17-09.34.00:584][739]LogInit: FAudioDevice initialized.
+[2019.09.17-09.34.00:598][739]LogLoad: Game class is 'GameModeBase'
+[2019.09.17-09.34.00:600][739]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.09.17-17.34.00
+[2019.09.17-09.34.00:601][739]LogWorld: Bringing up level for play took: 0.002857
+[2019.09.17-09.34.00:601][739]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2019.09.17-09.34.00:604][739]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.09.17-09.34.00:606][739]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level1 -0.286
+[2019.09.17-09.34.00:619][739]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.09.17-09.34.02:543][766]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.17-09.34.06:635][865]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.17-09.34.12:427][ 92]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.17-09.34.16:448][252]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.17-09.34.19:769][384]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.09.17-09.34.19:770][384]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.17-09.34.19:770][384]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2019.09.17-09.34.19:770][384]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2019.09.17-09.34.19:842][384]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.17-09.34.19:843][384]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.09.17-09.34.19:883][384]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.17-09.34.19:889][384]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2019.09.17-09.34.19:916][385]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.09.17-09.34.24:521][539]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.17-09.34.24:620][542]LogTemp: Repeating last play command: Simulate
+[2019.09.17-09.34.24:636][542]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.09.17-09.34.24:636][542]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.17-09.34.24:636][542]PIE: New page: SIE session: Level1 (2019年9月18日 上午1:34:24)
+[2019.09.17-09.34.24:636][542]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2019.09.17-09.34.24:665][542]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028303s)
+[2019.09.17-09.34.24:666][542]LogAIModule: Creating AISystem for world Level1
+[2019.09.17-09.34.24:666][542]LogPlayLevel: PIE: World Init took: (0.001233s)
+[2019.09.17-09.34.24:666][542]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.029746s)
+[2019.09.17-09.34.24:706][542]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2019.09.17-09.34.24:716][542]LogInit: XAudio2 using '扬声器 (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.17-09.34.24:743][542]LogInit: FAudioDevice initialized.
+[2019.09.17-09.34.24:756][542]LogLoad: Game class is 'GameModeBase'
+[2019.09.17-09.34.24:759][542]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.09.17-17.34.24
+[2019.09.17-09.34.24:760][542]LogWorld: Bringing up level for play took: 0.002695
+[2019.09.17-09.34.24:760][542]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2019.09.17-09.34.24:762][542]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.09.17-09.34.24:763][542]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level1 -0.13
+[2019.09.17-09.34.24:764][542]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.09.17-09.34.33:789][732]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.09.17-09.34.33:789][732]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.17-09.34.33:789][732]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2019.09.17-09.34.33:790][732]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2019.09.17-09.34.33:852][732]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.17-09.34.33:853][732]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.09.17-09.34.33:918][732]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.17-09.34.33:926][732]LogUObjectHash: Compacting FUObjectHashTables data took   5.48ms
+[2019.09.17-09.34.33:955][733]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.09.17-09.35.10:319][875]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2019.09.17-09.35.10:686][875]LogSavePackage: Moving '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Saved/Level1_Auto31B7423D34BF398C96B84F8AA9F3D70D7.tmp' to '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Saved/Autosaves/Game/Maps/Level1_Auto3.umap'
+[2019.09.17-09.35.10:691][875]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level1' took 0.409
+[2019.09.17-09.35.10:691][875]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.409
+[2019.09.17-09.35.15:816][892]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.17-09.36.42:628][195]LogHttp: Warning: 0000012982B451C0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B349D415E-456C-D96E-3127-9484B8832BAC%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=ebf3b58a4f9bf9dca1ba45a9f9cbf833%7C6cd29e672a584f96bacd2c98d8ebb62e%7C3eced006-bca4-4df5-8e1d-f2f6128de514&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.09.17-09.36.42:628][195]LogHttp: Warning: 0000012982B451C0: request failed, libcurl error: 0 (No error)
+[2019.09.17-09.36.42:628][195]LogHttp: Warning: 0000012982B451C0: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x129de4c7f70 [can pipeline])
+[2019.09.17-09.36.42:628][195]LogHttp: Warning: 0000012982B451C0: libcurl info message cache 1 (Re-using existing connection! (#130) with host datarouter.ol.epicgames.com)
+[2019.09.17-09.36.42:628][195]LogHttp: Warning: 0000012982B451C0: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.5.92.97) port 443 (#130))
+[2019.09.17-09.36.42:628][195]LogHttp: Warning: 0000012982B451C0: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.09.17-09.36.42:629][195]LogHttp: Warning: 0000012982B451C0: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.09.17-09.36.42:629][195]LogHttp: Warning: 0000012982B451C0: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.09.17-09.36.42:629][195]LogHttp: Warning: 0000012982B451C0: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.09.17-09.36.42:629][195]LogHttp: Warning: 0000012982B451C0: libcurl info message cache 7 (Closing connection 130)
+[2019.09.17-09.36.42:629][195]LogHttp: Warning: 0000012982B451C0: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.09.17-09.36.42:965][196]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B349D415E-456C-D96E-3127-9484B8832BAC%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=ebf3b58a4f9bf9dca1ba45a9f9cbf833%7C6cd29e672a584f96bacd2c98d8ebb62e%7C3eced006-bca4-4df5-8e1d-f2f6128de514&AppEnvironment=datacollector-binary&UploadType=eteventstream
