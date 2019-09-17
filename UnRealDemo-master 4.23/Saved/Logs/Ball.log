@@ -1492,3 +1492,391 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.09.17-09.59.03:788][242]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1_BuiltData" FILE="../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/Maps/Level1_BuiltData.uasset" SILENT=true
 [2019.09.17-09.59.03:945][242]LogSavePackage: Moving '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Saved/Level1_BuiltDataFBBB7568421ED2C0FC3B50A0DC6FB509.tmp' to '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/Maps/Level1_BuiltData.uasset'
 [2019.09.17-09.59.19:433][361]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.17-10.01.25:713][906]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.17-10.01.25:931][909]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BulePrints/BP_Player.BP_Player
+[2019.09.17-10.06.42:476][519]LogHttp: Warning: 0000012A11E8DD00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B349D415E-456C-D96E-3127-9484B8832BAC%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=ebf3b58a4f9bf9dca1ba45a9f9cbf833%7C6cd29e672a584f96bacd2c98d8ebb62e%7C3eced006-bca4-4df5-8e1d-f2f6128de514&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.09.17-10.06.42:476][519]LogHttp: Warning: 0000012A11E8DD00: request failed, libcurl error: 0 (No error)
+[2019.09.17-10.06.42:476][519]LogHttp: Warning: 0000012A11E8DD00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x129de4c7f70 [can pipeline])
+[2019.09.17-10.06.42:476][519]LogHttp: Warning: 0000012A11E8DD00: libcurl info message cache 1 (Re-using existing connection! (#144) with host datarouter.ol.epicgames.com)
+[2019.09.17-10.06.42:476][519]LogHttp: Warning: 0000012A11E8DD00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.88.250.173) port 443 (#144))
+[2019.09.17-10.06.42:476][519]LogHttp: Warning: 0000012A11E8DD00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.09.17-10.06.42:476][519]LogHttp: Warning: 0000012A11E8DD00: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.09.17-10.06.42:476][519]LogHttp: Warning: 0000012A11E8DD00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.09.17-10.06.42:476][519]LogHttp: Warning: 0000012A11E8DD00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.09.17-10.06.42:476][519]LogHttp: Warning: 0000012A11E8DD00: libcurl info message cache 7 (Closing connection 144)
+[2019.09.17-10.06.42:476][519]LogHttp: Warning: 0000012A11E8DD00: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.09.17-10.06.42:810][520]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B349D415E-456C-D96E-3127-9484B8832BAC%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=ebf3b58a4f9bf9dca1ba45a9f9cbf833%7C6cd29e672a584f96bacd2c98d8ebb62e%7C3eced006-bca4-4df5-8e1d-f2f6128de514&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.17-10.09.03:604][941]LogUObjectHash: Compacting FUObjectHashTables data took   8.89ms
+[2019.09.17-10.09.03:604][941]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level1' took 0.068
+[2019.09.17-10.09.03:608][941]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BulePrints/BP_Player] ([1] browsable assets)...
+[2019.09.17-10.09.03:657][941]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BulePrints/BP_Player.BP_Player]
+[2019.09.17-10.09.03:657][941]OBJ SavePackage: Finished generating thumbnails for package [/Game/BulePrints/BP_Player]
+[2019.09.17-10.09.03:748][941]LogSavePackage: Moving '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Saved/BP_Player_Auto5A099CEBB4AA91DA6EB741B864613C049.tmp' to '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Saved/Autosaves/Game/BulePrints/BP_Player_Auto5.uasset'
+[2019.09.17-10.09.03:752][941]LogFileHelpers: Auto-saving content packages took 0.145
+[2019.09.17-10.12.42:223][598]LogHttp: Warning: 00000129C4F19440: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B349D415E-456C-D96E-3127-9484B8832BAC%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=ebf3b58a4f9bf9dca1ba45a9f9cbf833%7C6cd29e672a584f96bacd2c98d8ebb62e%7C3eced006-bca4-4df5-8e1d-f2f6128de514&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.09.17-10.12.42:223][598]LogHttp: Warning: 00000129C4F19440: request failed, libcurl error: 0 (No error)
+[2019.09.17-10.12.42:223][598]LogHttp: Warning: 00000129C4F19440: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x129de4c7f70 [can pipeline])
+[2019.09.17-10.12.42:223][598]LogHttp: Warning: 00000129C4F19440: libcurl info message cache 1 (Re-using existing connection! (#146) with host datarouter.ol.epicgames.com)
+[2019.09.17-10.12.42:223][598]LogHttp: Warning: 00000129C4F19440: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.209.62.2) port 443 (#146))
+[2019.09.17-10.12.42:223][598]LogHttp: Warning: 00000129C4F19440: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.09.17-10.12.42:223][598]LogHttp: Warning: 00000129C4F19440: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.09.17-10.12.42:223][598]LogHttp: Warning: 00000129C4F19440: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.09.17-10.12.42:223][598]LogHttp: Warning: 00000129C4F19440: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.09.17-10.12.42:223][598]LogHttp: Warning: 00000129C4F19440: libcurl info message cache 7 (Closing connection 146)
+[2019.09.17-10.12.42:223][598]LogHttp: Warning: 00000129C4F19440: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.09.17-10.12.42:223][598]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B349D415E-456C-D96E-3127-9484B8832BAC%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=ebf3b58a4f9bf9dca1ba45a9f9cbf833%7C6cd29e672a584f96bacd2c98d8ebb62e%7C3eced006-bca4-4df5-8e1d-f2f6128de514&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.17-10.19.42:249][858]LogHttp: Warning: 00000129C4F19BC0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B349D415E-456C-D96E-3127-9484B8832BAC%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=ebf3b58a4f9bf9dca1ba45a9f9cbf833%7C6cd29e672a584f96bacd2c98d8ebb62e%7C3eced006-bca4-4df5-8e1d-f2f6128de514&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.09.17-10.19.42:249][858]LogHttp: Warning: 00000129C4F19BC0: request failed, libcurl error: 0 (No error)
+[2019.09.17-10.19.42:249][858]LogHttp: Warning: 00000129C4F19BC0: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x129de4c7f70 [can pipeline])
+[2019.09.17-10.19.42:249][858]LogHttp: Warning: 00000129C4F19BC0: libcurl info message cache 1 (Re-using existing connection! (#148) with host datarouter.ol.epicgames.com)
+[2019.09.17-10.19.42:249][858]LogHttp: Warning: 00000129C4F19BC0: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.174.205.197) port 443 (#148))
+[2019.09.17-10.19.42:249][858]LogHttp: Warning: 00000129C4F19BC0: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.09.17-10.19.42:249][858]LogHttp: Warning: 00000129C4F19BC0: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.09.17-10.19.42:249][858]LogHttp: Warning: 00000129C4F19BC0: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.09.17-10.19.42:249][858]LogHttp: Warning: 00000129C4F19BC0: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.09.17-10.19.42:249][858]LogHttp: Warning: 00000129C4F19BC0: libcurl info message cache 7 (Closing connection 148)
+[2019.09.17-10.19.42:249][858]LogHttp: Warning: 00000129C4F19BC0: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.09.17-10.19.42:249][858]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B349D415E-456C-D96E-3127-9484B8832BAC%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=ebf3b58a4f9bf9dca1ba45a9f9cbf833%7C6cd29e672a584f96bacd2c98d8ebb62e%7C3eced006-bca4-4df5-8e1d-f2f6128de514&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.17-10.26.42:433][160]LogHttp: Warning: 00000129C4F19D00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B349D415E-456C-D96E-3127-9484B8832BAC%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=ebf3b58a4f9bf9dca1ba45a9f9cbf833%7C6cd29e672a584f96bacd2c98d8ebb62e%7C3eced006-bca4-4df5-8e1d-f2f6128de514&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.09.17-10.26.42:433][160]LogHttp: Warning: 00000129C4F19D00: request failed, libcurl error: 0 (No error)
+[2019.09.17-10.26.42:433][160]LogHttp: Warning: 00000129C4F19D00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x129de4c7f70 [can pipeline])
+[2019.09.17-10.26.42:433][160]LogHttp: Warning: 00000129C4F19D00: libcurl info message cache 1 (Re-using existing connection! (#150) with host datarouter.ol.epicgames.com)
+[2019.09.17-10.26.42:433][160]LogHttp: Warning: 00000129C4F19D00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.203.172.183) port 443 (#150))
+[2019.09.17-10.26.42:433][160]LogHttp: Warning: 00000129C4F19D00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.09.17-10.26.42:433][160]LogHttp: Warning: 00000129C4F19D00: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.09.17-10.26.42:433][160]LogHttp: Warning: 00000129C4F19D00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.09.17-10.26.42:433][160]LogHttp: Warning: 00000129C4F19D00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.09.17-10.26.42:433][160]LogHttp: Warning: 00000129C4F19D00: libcurl info message cache 7 (Closing connection 150)
+[2019.09.17-10.26.42:433][160]LogHttp: Warning: 00000129C4F19D00: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.09.17-10.26.42:433][160]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B349D415E-456C-D96E-3127-9484B8832BAC%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=ebf3b58a4f9bf9dca1ba45a9f9cbf833%7C6cd29e672a584f96bacd2c98d8ebb62e%7C3eced006-bca4-4df5-8e1d-f2f6128de514&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.17-10.29.16:704][190]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.09.17-10.31.38:775][594]LogSlate: Window 'Project Settings' being destroyed
+[2019.09.17-10.31.38:787][594]LogSlate: Window 'Project Settings' being destroyed
+[2019.09.17-10.38.07:016][897]BlueprintLog: New page: Compile BP_Player
+[2019.09.17-10.38.07:319][897]LogUObjectHash: Compacting FUObjectHashTables data took   5.13ms
+[2019.09.17-10.38.07:698][914]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BulePrints/BP_Player" FILE="../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/BulePrints/BP_Player.uasset" SILENT=true
+[2019.09.17-10.38.07:758][914]LogSavePackage: Moving '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Saved/BP_PlayerA455A71A48833FAEA344518418E07098.tmp' to '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/BulePrints/BP_Player.uasset'
+[2019.09.17-10.38.10:813][ 27]LogTemp: Repeating last play command: Simulate
+[2019.09.17-10.38.10:837][ 27]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.09.17-10.38.10:837][ 27]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.17-10.38.10:837][ 27]PIE: New page: SIE session: Level1 (2019年9月18日 上午2:38:10)
+[2019.09.17-10.38.10:837][ 27]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2019.09.17-10.38.10:860][ 27]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022597s)
+[2019.09.17-10.38.10:861][ 27]LogAIModule: Creating AISystem for world Level1
+[2019.09.17-10.38.10:862][ 27]LogPlayLevel: PIE: World Init took: (0.001538s)
+[2019.09.17-10.38.10:862][ 27]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.024393s)
+[2019.09.17-10.38.10:905][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   4.48ms
+[2019.09.17-10.38.10:917][ 27]LogInit: XAudio2 using '扬声器 (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.17-10.38.10:944][ 27]LogInit: FAudioDevice initialized.
+[2019.09.17-10.38.10:963][ 27]LogLoad: Game class is 'BP_GameMode_C'
+[2019.09.17-10.38.10:966][ 27]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.09.17-18.38.10
+[2019.09.17-10.38.10:967][ 27]LogWorld: Bringing up level for play took: 0.002725
+[2019.09.17-10.38.10:967][ 27]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2019.09.17-10.38.10:970][ 27]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level1 0.078
+[2019.09.17-10.38.10:980][ 27]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.09.17-10.38.20:344][507]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.09.17-10.38.20:344][507]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.17-10.38.20:344][507]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2019.09.17-10.38.20:344][507]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2019.09.17-10.38.20:393][507]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.17-10.38.20:393][507]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.09.17-10.38.20:444][507]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.17-10.38.20:450][507]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2019.09.17-10.38.20:480][508]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2019.09.17-10.38.22:088][552]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.17-10.38.32:166][139]BlueprintLog: New page: Compile BP_Player
+[2019.09.17-10.38.32:453][139]LogUObjectHash: Compacting FUObjectHashTables data took   5.64ms
+[2019.09.17-10.38.32:717][149]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BulePrints/BP_Player" FILE="../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/BulePrints/BP_Player.uasset" SILENT=true
+[2019.09.17-10.38.32:763][149]LogSavePackage: Moving '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Saved/BP_Player202A9EBA4C251571C8FEC1A08B6E8E3D.tmp' to '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/BulePrints/BP_Player.uasset'
+[2019.09.17-10.38.34:708][217]LogTemp: Repeating last play command: Simulate
+[2019.09.17-10.38.34:733][217]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.09.17-10.38.34:733][217]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.17-10.38.34:733][217]PIE: New page: SIE session: Level1 (2019年9月18日 上午2:38:34)
+[2019.09.17-10.38.34:733][217]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2019.09.17-10.38.34:758][217]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024321s)
+[2019.09.17-10.38.34:759][217]LogAIModule: Creating AISystem for world Level1
+[2019.09.17-10.38.34:759][217]LogPlayLevel: PIE: World Init took: (0.001271s)
+[2019.09.17-10.38.34:759][217]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.025755s)
+[2019.09.17-10.38.34:803][217]LogUObjectHash: Compacting FUObjectHashTables data took   5.30ms
+[2019.09.17-10.38.34:816][217]LogInit: XAudio2 using '扬声器 (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.17-10.38.34:844][217]LogInit: FAudioDevice initialized.
+[2019.09.17-10.38.34:853][217]LogLoad: Game class is 'BP_GameMode_C'
+[2019.09.17-10.38.34:864][217]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.09.17-18.38.34
+[2019.09.17-10.38.34:865][217]LogWorld: Bringing up level for play took: 0.002495
+[2019.09.17-10.38.34:865][217]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2019.09.17-10.38.34:868][217]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level1 -0.024
+[2019.09.17-10.38.34:870][217]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.09.17-10.38.35:508][233]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.35:525][234]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.35:542][235]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.35:558][236]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.35:581][237]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.35:605][238]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.35:630][239]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.35:656][240]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.35:679][241]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.35:695][242]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.35:712][243]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.35:729][244]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.35:745][245]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.35:764][246]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.35:784][247]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.35:803][248]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.35:823][249]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.35:842][250]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.35:862][251]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.35:881][252]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.35:900][253]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.35:919][254]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.35:939][255]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.35:958][256]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.35:977][257]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.35:996][258]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.36:015][259]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.36:034][260]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.36:053][261]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.36:073][262]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.36:093][263]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.36:113][264]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.36:133][265]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.36:152][266]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.36:172][267]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.36:191][268]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.36:210][269]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.36:230][270]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.36:249][271]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.36:269][272]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.36:288][273]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.36:306][274]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.36:325][275]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.36:344][276]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.36:363][277]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.36:383][278]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.36:399][279]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.36:418][280]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.36:438][281]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.36:459][282]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.36:479][283]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.36:498][284]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.36:522][285]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.36:536][286]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.36:555][287]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.36:574][288]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.36:593][289]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.36:612][290]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2019.09.17-10.38.36:631][291]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2019.09.17-10.38.36:649][292]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2019.09.17-10.38.36:668][293]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2019.09.17-10.38.36:686][294]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2019.09.17-10.38.36:704][295]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2019.09.17-10.38.36:723][296]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2019.09.17-10.38.36:741][297]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2019.09.17-10.38.36:760][298]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2019.09.17-10.38.36:778][299]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2019.09.17-10.38.36:797][300]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2019.09.17-10.38.36:815][301]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2019.09.17-10.38.36:833][302]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2019.09.17-10.38.36:853][303]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2019.09.17-10.38.36:872][304]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2019.09.17-10.38.36:892][305]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2019.09.17-10.38.36:911][306]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2019.09.17-10.38.36:930][307]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2019.09.17-10.38.36:949][308]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2019.09.17-10.38.36:968][309]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2019.09.17-10.38.36:987][310]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2019.09.17-10.38.37:006][311]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2019.09.17-10.38.37:025][312]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2019.09.17-10.38.37:044][313]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2019.09.17-10.38.37:062][314]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2019.09.17-10.38.37:082][315]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.37:100][316]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2019.09.17-10.38.37:118][317]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2019.09.17-10.38.37:136][318]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2019.09.17-10.38.37:154][319]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2019.09.17-10.38.37:172][320]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2019.09.17-10.38.37:190][321]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2019.09.17-10.38.37:209][322]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2019.09.17-10.38.37:227][323]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2019.09.17-10.38.37:246][324]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2019.09.17-10.38.37:265][325]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2019.09.17-10.38.37:284][326]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2019.09.17-10.38.37:303][327]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2019.09.17-10.38.37:322][328]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2019.09.17-10.38.37:341][329]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2019.09.17-10.38.37:359][330]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2019.09.17-10.38.37:378][331]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2019.09.17-10.38.37:396][332]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2019.09.17-10.38.37:415][333]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2019.09.17-10.38.37:432][334]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2019.09.17-10.38.37:451][335]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2019.09.17-10.38.37:469][336]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2019.09.17-10.38.37:487][337]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2019.09.17-10.38.37:506][338]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2019.09.17-10.38.37:524][339]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2019.09.17-10.38.37:542][340]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2019.09.17-10.38.37:561][341]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2019.09.17-10.38.37:579][342]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2019.09.17-10.38.37:598][343]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2019.09.17-10.38.37:616][344]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2019.09.17-10.38.37:635][345]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.37:654][346]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.37:673][347]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.37:693][348]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.37:713][349]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2019.09.17-10.38.37:732][350]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2019.09.17-10.38.37:750][351]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2019.09.17-10.38.37:770][352]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2019.09.17-10.38.37:789][353]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2019.09.17-10.38.37:808][354]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2019.09.17-10.38.37:827][355]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2019.09.17-10.38.37:846][356]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2019.09.17-10.38.37:864][357]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2019.09.17-10.38.37:882][358]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2019.09.17-10.38.37:901][359]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2019.09.17-10.38.37:919][360]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2019.09.17-10.38.37:938][361]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2019.09.17-10.38.37:956][362]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2019.09.17-10.38.37:975][363]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2019.09.17-10.38.37:993][364]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.38:012][365]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.38:030][366]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2019.09.17-10.38.38:049][367]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2019.09.17-10.38.38:068][368]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2019.09.17-10.38.38:087][369]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2019.09.17-10.38.38:106][370]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2019.09.17-10.38.38:125][371]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2019.09.17-10.38.38:144][372]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.38:163][373]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.38:182][374]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.38:200][375]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.38:219][376]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2019.09.17-10.38.38:237][377]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2019.09.17-10.38.38:255][378]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2019.09.17-10.38.38:274][379]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.38:292][380]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.38:311][381]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2019.09.17-10.38.38:329][382]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2019.09.17-10.38.38:347][383]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2019.09.17-10.38.38:365][384]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2019.09.17-10.38.38:383][385]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.38:401][386]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.38:419][387]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.38:438][388]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.38:458][389]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2019.09.17-10.38.38:476][390]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2019.09.17-10.38.38:496][391]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2019.09.17-10.38.38:515][392]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.38:533][393]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.38:551][394]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2019.09.17-10.38.38:569][395]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2019.09.17-10.38.38:587][396]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2019.09.17-10.38.38:608][397]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.38:625][398]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.38:644][399]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.38:662][400]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.38:682][401]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.38:700][402]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2019.09.17-10.38.38:718][403]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2019.09.17-10.38.38:736][404]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2019.09.17-10.38.38:755][405]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2019.09.17-10.38.38:773][406]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2019.09.17-10.38.38:792][407]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2019.09.17-10.38.38:810][408]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2019.09.17-10.38.38:829][409]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.38:848][410]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.38:865][411]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.38:884][412]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.38:903][413]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.38:922][414]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2019.09.17-10.38.38:940][415]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2019.09.17-10.38.38:959][416]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.38:978][417]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2019.09.17-10.38.38:996][418]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2019.09.17-10.38.39:014][419]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2019.09.17-10.38.39:032][420]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2019.09.17-10.38.39:051][421]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2019.09.17-10.38.39:072][422]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.39:088][423]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.39:107][424]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.39:125][425]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2019.09.17-10.38.39:143][426]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2019.09.17-10.38.39:161][427]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.39:179][428]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.39:197][429]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2019.09.17-10.38.39:214][430]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2019.09.17-10.38.39:233][431]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2019.09.17-10.38.39:252][432]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2019.09.17-10.38.39:272][433]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.39:290][434]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.39:309][435]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.39:327][436]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.39:346][437]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2019.09.17-10.38.39:364][438]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2019.09.17-10.38.39:380][439]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2019.09.17-10.38.39:400][440]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.39:417][441]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.39:436][442]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2019.09.17-10.38.39:454][443]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2019.09.17-10.38.39:472][444]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2019.09.17-10.38.39:491][445]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2019.09.17-10.38.39:509][446]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2019.09.17-10.38.39:529][447]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.39:546][448]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.39:565][449]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2019.09.17-10.38.39:581][450]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2019.09.17-10.38.39:599][451]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2019.09.17-10.38.39:617][452]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2019.09.17-10.38.39:637][453]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2019.09.17-10.38.39:655][454]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.39:673][455]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.39:691][456]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2019.09.17-10.38.39:711][457]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2019.09.17-10.38.39:728][458]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2019.09.17-10.38.39:746][459]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2019.09.17-10.38.39:764][460]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.39:781][461]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.39:799][462]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.39:818][463]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2019.09.17-10.38.39:837][464]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2019.09.17-10.38.39:853][465]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2019.09.17-10.38.39:872][466]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2019.09.17-10.38.39:890][467]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.39:907][468]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.39:926][469]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2019.09.17-10.38.39:943][470]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2019.09.17-10.38.39:960][471]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2019.09.17-10.38.39:980][472]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.39:996][473]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.40:013][474]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.40:032][475]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.40:048][476]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.40:068][477]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2019.09.17-10.38.40:087][478]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2019.09.17-10.38.40:105][479]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2019.09.17-10.38.40:125][480]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2019.09.17-10.38.40:144][481]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2019.09.17-10.38.40:165][482]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.40:183][483]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.40:203][484]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.40:222][485]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.40:241][486]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.40:260][487]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.40:280][488]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.40:299][489]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.40:317][490]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.40:336][491]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.40:355][492]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.40:374][493]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.40:393][494]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.40:412][495]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.40:432][496]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2019.09.17-10.38.40:434][496]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.09.17-10.38.40:434][496]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.17-10.38.40:434][496]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2019.09.17-10.38.40:435][496]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2019.09.17-10.38.40:490][496]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.17-10.38.40:491][496]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.09.17-10.38.40:542][496]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.17-10.38.40:548][496]LogUObjectHash: Compacting FUObjectHashTables data took   4.65ms
+[2019.09.17-10.38.40:577][497]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2019.09.17-10.38.41:288][519]LogSlate: FSceneViewport::OnFocusLost() reason 0
