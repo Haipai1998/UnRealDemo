@@ -1880,3 +1880,270 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.09.17-10.38.40:548][496]LogUObjectHash: Compacting FUObjectHashTables data took   4.65ms
 [2019.09.17-10.38.40:577][497]LogPlayLevel: Display: Destroying online subsystem :Context_24
 [2019.09.17-10.38.41:288][519]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.17-10.44.35:686][914]BlueprintLog: New page: Compile BP_Player
+[2019.09.17-10.44.36:119][914]LogUObjectHash: Compacting FUObjectHashTables data took  12.57ms
+[2019.09.17-10.44.36:303][915]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BulePrints/BP_Player" FILE="../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/BulePrints/BP_Player.uasset" SILENT=true
+[2019.09.17-10.44.36:393][915]LogSavePackage: Moving '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Saved/BP_Player577076F3447DFB981FC872BA6C47400B.tmp' to '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/BulePrints/BP_Player.uasset'
+[2019.09.17-10.44.39:065][ 26]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2019.09.17-10.44.40:796][ 88]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.09.17-10.44.41:627][112]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.17-10.44.41:693][114]LogTemp: Repeating last play command: Simulate
+[2019.09.17-10.44.41:735][114]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.09.17-10.44.41:735][114]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.17-10.44.41:735][114]PIE: New page: SIE session: Level1 (2019年9月18日 上午2:44:41)
+[2019.09.17-10.44.41:735][114]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2019.09.17-10.44.41:777][114]LogPlayLevel: PIE: StaticDuplicateObject took: (0.041584s)
+[2019.09.17-10.44.41:778][114]LogAIModule: Creating AISystem for world Level1
+[2019.09.17-10.44.41:779][114]LogPlayLevel: PIE: World Init took: (0.002097s)
+[2019.09.17-10.44.41:779][114]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.043948s)
+[2019.09.17-10.44.41:842][114]LogUObjectHash: Compacting FUObjectHashTables data took   7.58ms
+[2019.09.17-10.44.41:866][114]LogInit: XAudio2 using '扬声器 (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.17-10.44.41:909][114]LogInit: FAudioDevice initialized.
+[2019.09.17-10.44.41:925][114]LogLoad: Game class is 'BP_GameMode_C'
+[2019.09.17-10.44.41:932][114]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.09.17-18.44.41
+[2019.09.17-10.44.41:933][114]LogWorld: Bringing up level for play took: 0.006266
+[2019.09.17-10.44.41:933][114]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2019.09.17-10.44.41:938][114]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level1 1.046
+[2019.09.17-10.44.41:952][114]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.09.17-10.44.42:388][126]LogHttp: Warning: 0000012A188C5D00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B349D415E-456C-D96E-3127-9484B8832BAC%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=ebf3b58a4f9bf9dca1ba45a9f9cbf833%7C6cd29e672a584f96bacd2c98d8ebb62e%7C3eced006-bca4-4df5-8e1d-f2f6128de514&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.09.17-10.44.42:389][126]LogHttp: Warning: 0000012A188C5D00: request failed, libcurl error: 0 (No error)
+[2019.09.17-10.44.42:389][126]LogHttp: Warning: 0000012A188C5D00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x129de4c7f70 [can pipeline])
+[2019.09.17-10.44.42:389][126]LogHttp: Warning: 0000012A188C5D00: libcurl info message cache 1 (Re-using existing connection! (#157) with host datarouter.ol.epicgames.com)
+[2019.09.17-10.44.42:389][126]LogHttp: Warning: 0000012A188C5D00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (18.235.16.110) port 443 (#157))
+[2019.09.17-10.44.42:389][126]LogHttp: Warning: 0000012A188C5D00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.09.17-10.44.42:389][126]LogHttp: Warning: 0000012A188C5D00: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.09.17-10.44.42:389][126]LogHttp: Warning: 0000012A188C5D00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.09.17-10.44.42:389][126]LogHttp: Warning: 0000012A188C5D00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.09.17-10.44.42:389][126]LogHttp: Warning: 0000012A188C5D00: libcurl info message cache 7 (Closing connection 157)
+[2019.09.17-10.44.42:389][126]LogHttp: Warning: 0000012A188C5D00: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.09.17-10.44.42:389][126]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B349D415E-456C-D96E-3127-9484B8832BAC%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=ebf3b58a4f9bf9dca1ba45a9f9cbf833%7C6cd29e672a584f96bacd2c98d8ebb62e%7C3eced006-bca4-4df5-8e1d-f2f6128de514&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.17-10.44.47:345][292]Cmd: SELECT NONE
+[2019.09.17-10.44.47:955][319]Cmd: SELECT NONE
+[2019.09.17-10.44.48:865][366]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.09.17-10.44.48:865][366]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.17-10.44.48:866][366]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2019.09.17-10.44.48:866][366]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2019.09.17-10.44.48:893][366]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.17-10.44.48:893][366]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.09.17-10.44.48:972][366]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.17-10.44.48:981][366]LogUObjectHash: Compacting FUObjectHashTables data took   7.11ms
+[2019.09.17-10.44.49:028][367]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2019.09.17-10.44.51:924][473]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2019.09.17-10.44.54:176][554]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.09.17-10.45.00:120][773]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.09.17-10.45.01:608][817]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.17-10.45.01:623][817]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1" FILE="../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.09.17-10.45.01:697][817]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2019.09.17-10.45.02:219][817]LogSavePackage: Moving '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Saved/Level145B47825471862E23EBC309D83FBC592.tmp' to '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/Maps/Level1.umap'
+[2019.09.17-10.45.02:263][817]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1_BuiltData" FILE="../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/Maps/Level1_BuiltData.uasset" SILENT=true
+[2019.09.17-10.45.02:424][817]LogSavePackage: Moving '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Saved/Level1_BuiltDataAA0B1F544228A652711418B79F9BC52A.tmp' to '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/Maps/Level1_BuiltData.uasset'
+[2019.09.17-10.53.35:558][849]BlueprintLog: New page: Compile BP_Player
+[2019.09.17-10.53.36:015][849]LogUObjectHash: Compacting FUObjectHashTables data took   8.57ms
+[2019.09.17-10.53.36:100][849]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BulePrints/BP_Player" FILE="../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/BulePrints/BP_Player.uasset" SILENT=true
+[2019.09.17-10.53.36:193][849]LogSavePackage: Moving '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Saved/BP_Player3196435A475FBE1611D60F8ECA45F3A6.tmp' to '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/BulePrints/BP_Player.uasset'
+[2019.09.17-10.53.37:822][936]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BulePrints/BP_Player" FILE="../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/BulePrints/BP_Player.uasset" SILENT=true
+[2019.09.17-10.53.37:879][936]LogSavePackage: Moving '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Saved/BP_PlayerEE83D97B4090396B600FCE8FE9992D72.tmp' to '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/BulePrints/BP_Player.uasset'
+[2019.09.17-10.54.33:234][972]BlueprintLog: New page: Compile BP_Player
+[2019.09.17-10.54.33:720][972]LogUObjectHash: Compacting FUObjectHashTables data took   7.89ms
+[2019.09.17-10.54.34:964][ 38]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BulePrints/BP_Player" FILE="../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/BulePrints/BP_Player.uasset" SILENT=true
+[2019.09.17-10.54.35:063][ 38]LogSavePackage: Moving '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Saved/BP_PlayerB65E9BDA4AA4C378AD78AA80532C3318.tmp' to '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/BulePrints/BP_Player.uasset'
+[2019.09.17-10.54.46:576][239]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.17-10.54.53:873][582]LogEditorTransaction: Undo Add Node
+[2019.09.17-10.55.34:090][725]LogUObjectHash: Compacting FUObjectHashTables data took   4.45ms
+[2019.09.17-10.55.34:090][725]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level1' took 0.038
+[2019.09.17-10.55.34:092][725]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BulePrints/BP_Player] ([1] browsable assets)...
+[2019.09.17-10.55.34:116][725]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BulePrints/BP_Player.BP_Player]
+[2019.09.17-10.55.34:116][725]OBJ SavePackage: Finished generating thumbnails for package [/Game/BulePrints/BP_Player]
+[2019.09.17-10.55.34:167][725]LogSavePackage: Moving '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Saved/BP_Player_Auto6D72FF93F47B46354C25091A26284C9D8.tmp' to '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Saved/Autosaves/Game/BulePrints/BP_Player_Auto6.uasset'
+[2019.09.17-10.55.34:169][725]LogFileHelpers: Auto-saving content packages took 0.078
+[2019.09.17-10.56.04:182][521]BlueprintLog: New page: Compile BP_Player
+[2019.09.17-10.56.04:462][521]LogUObjectHash: Compacting FUObjectHashTables data took   4.91ms
+[2019.09.17-10.56.04:756][534]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BulePrints/BP_Player" FILE="../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/BulePrints/BP_Player.uasset" SILENT=true
+[2019.09.17-10.56.04:805][534]LogSavePackage: Moving '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Saved/BP_Player7AC074224DBA93C6A4C7C9B1EE51E99A.tmp' to '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/BulePrints/BP_Player.uasset'
+[2019.09.17-10.56.07:544][626]LogTemp: Repeating last play command: Simulate
+[2019.09.17-10.56.07:575][626]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.09.17-10.56.07:576][626]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.17-10.56.07:576][626]PIE: New page: SIE session: Level1 (2019年9月18日 上午2:56:07)
+[2019.09.17-10.56.07:576][626]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2019.09.17-10.56.07:600][626]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023426s)
+[2019.09.17-10.56.07:601][626]LogAIModule: Creating AISystem for world Level1
+[2019.09.17-10.56.07:601][626]LogPlayLevel: PIE: World Init took: (0.001235s)
+[2019.09.17-10.56.07:601][626]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.024850s)
+[2019.09.17-10.56.07:643][626]LogUObjectHash: Compacting FUObjectHashTables data took   4.46ms
+[2019.09.17-10.56.07:654][626]LogInit: XAudio2 using '扬声器 (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.17-10.56.07:680][626]LogInit: FAudioDevice initialized.
+[2019.09.17-10.56.07:687][626]LogLoad: Game class is 'BP_GameMode_C'
+[2019.09.17-10.56.07:690][626]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.09.17-18.56.07
+[2019.09.17-10.56.07:691][626]LogWorld: Bringing up level for play took: 0.002480
+[2019.09.17-10.56.07:691][626]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2019.09.17-10.56.07:694][626]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level1 0.802
+[2019.09.17-10.56.07:703][626]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.09.17-10.56.28:217][627]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.09.17-10.56.28:218][627]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.17-10.56.28:218][627]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2019.09.17-10.56.28:219][627]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2019.09.17-10.56.28:236][627]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.17-10.56.28:236][627]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.09.17-10.56.28:288][627]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.17-10.56.28:295][627]LogUObjectHash: Compacting FUObjectHashTables data took   5.13ms
+[2019.09.17-10.56.28:325][628]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2019.09.17-10.59.18:157][191]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.17-10.59.42:846][588]LogEditorTransaction: Undo Create Reroute Node
+[2019.09.17-10.59.43:527][627]LogEditorTransaction: Undo Break Pin Link
+[2019.09.17-10.59.44:337][673]LogEditorTransaction: Undo Create Reroute Node
+[2019.09.17-11.00.05:241][882]Cmd: TRANSACTION UNDO
+[2019.09.17-11.00.05:241][882]LogEditorTransaction: Undo Move Nodes
+[2019.09.17-11.00.42:340][ 86]LogHttp: Warning: 0000012A15375E40: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B349D415E-456C-D96E-3127-9484B8832BAC%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=ebf3b58a4f9bf9dca1ba45a9f9cbf833%7C6cd29e672a584f96bacd2c98d8ebb62e%7C3eced006-bca4-4df5-8e1d-f2f6128de514&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.09.17-11.00.42:340][ 86]LogHttp: Warning: 0000012A15375E40: request failed, libcurl error: 0 (No error)
+[2019.09.17-11.00.42:340][ 86]LogHttp: Warning: 0000012A15375E40: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x129de4c7f70 [can pipeline])
+[2019.09.17-11.00.42:340][ 86]LogHttp: Warning: 0000012A15375E40: libcurl info message cache 1 (Re-using existing connection! (#165) with host datarouter.ol.epicgames.com)
+[2019.09.17-11.00.42:340][ 86]LogHttp: Warning: 0000012A15375E40: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (100.24.251.232) port 443 (#165))
+[2019.09.17-11.00.42:340][ 86]LogHttp: Warning: 0000012A15375E40: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.09.17-11.00.42:340][ 86]LogHttp: Warning: 0000012A15375E40: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.09.17-11.00.42:340][ 86]LogHttp: Warning: 0000012A15375E40: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.09.17-11.00.42:340][ 86]LogHttp: Warning: 0000012A15375E40: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.09.17-11.00.42:340][ 86]LogHttp: Warning: 0000012A15375E40: libcurl info message cache 7 (Closing connection 165)
+[2019.09.17-11.00.42:340][ 86]LogHttp: Warning: 0000012A15375E40: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.09.17-11.00.42:340][ 86]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B349D415E-456C-D96E-3127-9484B8832BAC%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=ebf3b58a4f9bf9dca1ba45a9f9cbf833%7C6cd29e672a584f96bacd2c98d8ebb62e%7C3eced006-bca4-4df5-8e1d-f2f6128de514&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.17-11.01.04:933][409]BlueprintLog: New page: Compile BP_Player
+[2019.09.17-11.01.05:213][409]LogUObjectHash: Compacting FUObjectHashTables data took   4.92ms
+[2019.09.17-11.01.05:572][425]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BulePrints/BP_Player" FILE="../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/BulePrints/BP_Player.uasset" SILENT=true
+[2019.09.17-11.01.05:627][425]LogSavePackage: Moving '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Saved/BP_PlayerFAA9752B485215F504475BA1A8307436.tmp' to '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/BulePrints/BP_Player.uasset'
+[2019.09.17-11.01.07:750][505]LogTemp: Repeating last play command: Simulate
+[2019.09.17-11.01.07:780][505]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.09.17-11.01.07:781][505]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.17-11.01.07:781][505]PIE: New page: SIE session: Level1 (2019年9月18日 上午3:01:07)
+[2019.09.17-11.01.07:781][505]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2019.09.17-11.01.07:804][505]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023188s)
+[2019.09.17-11.01.07:806][505]LogAIModule: Creating AISystem for world Level1
+[2019.09.17-11.01.07:806][505]LogPlayLevel: PIE: World Init took: (0.001281s)
+[2019.09.17-11.01.07:806][505]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.024673s)
+[2019.09.17-11.01.07:846][505]LogUObjectHash: Compacting FUObjectHashTables data took   4.37ms
+[2019.09.17-11.01.07:856][505]LogInit: XAudio2 using '扬声器 (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.17-11.01.07:883][505]LogInit: FAudioDevice initialized.
+[2019.09.17-11.01.07:895][505]LogLoad: Game class is 'BP_GameMode_C'
+[2019.09.17-11.01.07:899][505]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.09.17-19.01.07
+[2019.09.17-11.01.07:899][505]LogWorld: Bringing up level for play took: 0.002952
+[2019.09.17-11.01.07:900][505]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2019.09.17-11.01.07:902][505]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level1 1.011
+[2019.09.17-11.01.07:904][505]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.09.17-11.01.14:146][766]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.09.17-11.01.14:146][766]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.17-11.01.14:146][766]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2019.09.17-11.01.14:147][766]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2019.09.17-11.01.14:222][766]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.17-11.01.14:222][766]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.09.17-11.01.14:277][766]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.17-11.01.14:282][766]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2019.09.17-11.01.14:310][767]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2019.09.17-11.01.14:911][784]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.17-11.01.51:270][404]BlueprintLog: New page: Compile BP_Player
+[2019.09.17-11.01.51:542][404]LogUObjectHash: Compacting FUObjectHashTables data took   5.64ms
+[2019.09.17-11.01.52:026][427]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BulePrints/BP_Player" FILE="../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/BulePrints/BP_Player.uasset" SILENT=true
+[2019.09.17-11.01.52:078][427]LogSavePackage: Moving '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Saved/BP_Player7A22D2B944EBDE5D1FBCB99FF958BBB2.tmp' to '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/BulePrints/BP_Player.uasset'
+[2019.09.17-11.01.53:925][485]LogTemp: Repeating last play command: Simulate
+[2019.09.17-11.01.53:953][485]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.09.17-11.01.53:953][485]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.17-11.01.53:953][485]PIE: New page: SIE session: Level1 (2019年9月18日 上午3:01:53)
+[2019.09.17-11.01.53:953][485]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2019.09.17-11.01.53:982][485]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028864s)
+[2019.09.17-11.01.53:984][485]LogAIModule: Creating AISystem for world Level1
+[2019.09.17-11.01.53:984][485]LogPlayLevel: PIE: World Init took: (0.001402s)
+[2019.09.17-11.01.53:984][485]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.030451s)
+[2019.09.17-11.01.54:029][485]LogUObjectHash: Compacting FUObjectHashTables data took   5.56ms
+[2019.09.17-11.01.54:042][485]LogInit: XAudio2 using '扬声器 (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.17-11.01.54:065][485]LogInit: FAudioDevice initialized.
+[2019.09.17-11.01.54:074][485]LogLoad: Game class is 'BP_GameMode_C'
+[2019.09.17-11.01.54:077][485]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.09.17-19.01.54
+[2019.09.17-11.01.54:078][485]LogWorld: Bringing up level for play took: 0.003191
+[2019.09.17-11.01.54:078][485]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2019.09.17-11.01.54:081][485]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level1 -0.811
+[2019.09.17-11.01.54:083][485]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.09.17-11.02.02:938][772]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.09.17-11.02.02:939][772]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.17-11.02.02:939][772]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2019.09.17-11.02.02:939][772]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2019.09.17-11.02.03:026][772]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.17-11.02.03:027][772]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.09.17-11.02.03:086][772]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.17-11.02.03:092][772]LogUObjectHash: Compacting FUObjectHashTables data took   4.76ms
+[2019.09.17-11.02.03:128][773]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2019.09.17-11.02.04:617][803]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.17-11.02.06:218][832]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.17-11.02.07:655][832]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.09.17-11.02.17:624][995]LogSlate: Window 'Project Settings' being destroyed
+[2019.09.17-11.02.17:694][995]LogSlate: Window 'Project Settings' being destroyed
+[2019.09.17-11.03.40:862][284]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.17-11.03.48:021][583]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BulePrints/BP_Player" FILE="../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/BulePrints/BP_Player.uasset" SILENT=true
+[2019.09.17-11.03.48:081][583]LogSavePackage: Moving '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Saved/BP_Player89512DBB445F758CCA8058ABA7F00BD7.tmp' to '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/BulePrints/BP_Player.uasset'
+[2019.09.17-11.03.49:199][649]BlueprintLog: New page: Compile BP_Player
+[2019.09.17-11.03.49:487][649]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2019.09.17-11.03.49:926][668]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BulePrints/BP_Player" FILE="../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/BulePrints/BP_Player.uasset" SILENT=true
+[2019.09.17-11.03.49:977][668]LogSavePackage: Moving '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Saved/BP_Player395919D049BFF830A30A34802D90FDDE.tmp' to '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/BulePrints/BP_Player.uasset'
+[2019.09.17-11.06.11:177][583]LogTemp: Repeating last play command: Simulate
+[2019.09.17-11.06.11:202][583]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.09.17-11.06.11:203][583]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.17-11.06.11:203][583]PIE: New page: SIE session: Level1 (2019年9月18日 上午3:06:11)
+[2019.09.17-11.06.11:203][583]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2019.09.17-11.06.11:228][583]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025035s)
+[2019.09.17-11.06.11:229][583]LogAIModule: Creating AISystem for world Level1
+[2019.09.17-11.06.11:230][583]LogPlayLevel: PIE: World Init took: (0.001234s)
+[2019.09.17-11.06.11:230][583]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.026450s)
+[2019.09.17-11.06.11:270][583]LogUObjectHash: Compacting FUObjectHashTables data took   5.10ms
+[2019.09.17-11.06.11:281][583]LogInit: XAudio2 using '扬声器 (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.17-11.06.11:306][583]LogInit: FAudioDevice initialized.
+[2019.09.17-11.06.11:314][583]LogLoad: Game class is 'BP_GameMode_C'
+[2019.09.17-11.06.11:317][583]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.09.17-19.06.11
+[2019.09.17-11.06.11:317][583]LogWorld: Bringing up level for play took: 0.002578
+[2019.09.17-11.06.11:317][583]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2019.09.17-11.06.11:320][583]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level1 0.429
+[2019.09.17-11.06.11:322][583]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.09.17-11.06.15:463][763]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.09.17-11.06.15:464][763]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.17-11.06.15:464][763]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2019.09.17-11.06.15:464][763]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2019.09.17-11.06.15:515][763]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.17-11.06.15:515][763]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.09.17-11.06.15:566][763]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.17-11.06.15:574][763]LogUObjectHash: Compacting FUObjectHashTables data took   5.79ms
+[2019.09.17-11.06.15:611][764]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.17-11.06.15:615][764]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2019.09.17-11.06.15:676][764]LogSlate: Took 0.001327 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2019.09.17-11.06.24:625][852]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.17-11.06.52:565][424]BlueprintLog: New page: Compile BP_Player
+[2019.09.17-11.06.52:832][424]LogUObjectHash: Compacting FUObjectHashTables data took   6.23ms
+[2019.09.17-11.06.53:016][429]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BulePrints/BP_Player" FILE="../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/BulePrints/BP_Player.uasset" SILENT=true
+[2019.09.17-11.06.53:066][429]LogSavePackage: Moving '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Saved/BP_Player593D86A44C89DEA1DE4D6E9724A332A8.tmp' to '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/BulePrints/BP_Player.uasset'
+[2019.09.17-11.06.55:174][508]LogTemp: Repeating last play command: Simulate
+[2019.09.17-11.06.55:199][508]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.09.17-11.06.55:199][508]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.17-11.06.55:199][508]PIE: New page: SIE session: Level1 (2019年9月18日 上午3:06:55)
+[2019.09.17-11.06.55:199][508]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2019.09.17-11.06.55:226][508]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026599s)
+[2019.09.17-11.06.55:227][508]LogAIModule: Creating AISystem for world Level1
+[2019.09.17-11.06.55:227][508]LogPlayLevel: PIE: World Init took: (0.001220s)
+[2019.09.17-11.06.55:227][508]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.027985s)
+[2019.09.17-11.06.55:269][508]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2019.09.17-11.06.55:280][508]LogInit: XAudio2 using '扬声器 (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.17-11.06.55:306][508]LogInit: FAudioDevice initialized.
+[2019.09.17-11.06.55:318][508]LogLoad: Game class is 'BP_GameMode_C'
+[2019.09.17-11.06.55:321][508]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.09.17-19.06.55
+[2019.09.17-11.06.55:321][508]LogWorld: Bringing up level for play took: 0.002439
+[2019.09.17-11.06.55:321][508]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2019.09.17-11.06.55:324][508]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level1 0.432
+[2019.09.17-11.06.55:333][508]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.09.17-11.07.27:249][871]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.09.17-11.07.27:249][871]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.17-11.07.27:249][871]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2019.09.17-11.07.27:250][871]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2019.09.17-11.07.27:368][871]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.17-11.07.27:368][871]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.09.17-11.07.27:428][871]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.17-11.07.27:435][871]LogUObjectHash: Compacting FUObjectHashTables data took   5.40ms
+[2019.09.17-11.07.27:468][872]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2019.09.17-11.07.29:697][921]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.17-11.07.29:819][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1" FILE="../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.09.17-11.07.29:870][922]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2019.09.17-11.07.30:200][922]LogSavePackage: Moving '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Saved/Level1434DCA5441DAD7C0C8E57F87B08C76B7.tmp' to '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/Maps/Level1.umap'
+[2019.09.17-11.07.30:237][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1_BuiltData" FILE="../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/Maps/Level1_BuiltData.uasset" SILENT=true
+[2019.09.17-11.07.30:344][922]LogSavePackage: Moving '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Saved/Level1_BuiltData6719E8B54353123DAC29A5803363F243.tmp' to '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/Maps/Level1_BuiltData.uasset'
