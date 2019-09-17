@@ -1,0 +1,1127 @@
+﻿Log file open, 09/17/19 10:21:49
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Ball
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.181775
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-8386587
+LogInit: Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1809) (), CPU: AMD Ryzen 5 2500U with Radeon Vega Mobile Gfx  , GPU: AMD Radeon(TM) Vega 8 Graphics
+LogInit: Compiled (64-bit): Aug 31 2019 02:04:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.09.17-02.21.50:262][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.09.17-02.21.50:262][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.09.17-02.21.50:262][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Saved/Config/Windows/Engine.ini]
+[2019.09.17-02.21.50:262][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.09.17-02.21.50:262][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2019.09.17-02.21.50:262][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2019.09.17-02.21.50:262][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Saved/Config/Windows/Engine.ini]
+[2019.09.17-02.21.50:262][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Saved/Config/Windows/Engine.ini]
+[2019.09.17-02.21.50:262][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.09.17-02.21.50:262][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.09.17-02.21.50:262][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.09.17-02.21.50:262][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.09.17-02.21.50:262][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.09.17-02.21.50:262][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.09.17-02.21.50:262][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.09.17-02.21.50:262][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.09.17-02.21.50:262][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.09.17-02.21.50:262][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.09.17-02.21.50:262][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.09.17-02.21.50:262][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.09.17-02.21.50:262][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.09.17-02.21.50:262][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Saved/Config/Windows/Engine.ini]
+[2019.09.17-02.21.50:262][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.09.17-02.21.50:263][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.09.17-02.21.50:263][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.09.17-02.21.50:263][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.09.17-02.21.50:263][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.09.17-02.21.50:263][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.09.17-02.21.50:263][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.09.17-02.21.50:263][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.09.17-02.21.50:263][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.09.17-02.21.50:263][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.09.17-02.21.50:263][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.09.17-02.21.50:263][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.09.17-02.21.50:263][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.09.17-02.21.50:263][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Saved/Config/Windows/Engine.ini]
+[2019.09.17-02.21.50:263][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Saved/Config/Windows/Engine.ini]
+[2019.09.17-02.21.50:269][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.09.17-02.21.50:269][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.09.17-02.21.50:269][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.09.17-02.21.50:269][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.09.17-02.21.50:269][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.09.17-02.21.50:269][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.09.17-02.21.50:269][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.09.17-02.21.50:269][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.09.17-02.21.50:269][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.09.17-02.21.50:269][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.09.17-02.21.50:269][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.09.17-02.21.50:269][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.09.17-02.21.50:269][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.09.17-02.21.50:269][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.09.17-02.21.50:269][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.09.17-02.21.50:269][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.09.17-02.21.50:269][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.09.17-02.21.50:269][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.09.17-02.21.50:269][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.09.17-02.21.50:269][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.09.17-02.21.50:269][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.09.17-02.21.50:269][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.09.17-02.21.50:269][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.09.17-02.21.50:269][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.09.17-02.21.50:269][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.09.17-02.21.50:269][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.09.17-02.21.50:269][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.09.17-02.21.50:269][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.09.17-02.21.50:269][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.09.17-02.21.50:269][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.09.17-02.21.50:269][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.09.17-02.21.50:269][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.09.17-02.21.50:269][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.09.17-02.21.50:269][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.09.17-02.21.50:269][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.09.17-02.21.50:269][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.09.17-02.21.50:269][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.09.17-02.21.50:269][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.09.17-02.21.50:269][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.09.17-02.21.50:269][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.09.17-02.21.50:269][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.09.17-02.21.50:269][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.09.17-02.21.50:270][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.09.17-02.21.50:270][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.09.17-02.21.50:270][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.09.17-02.21.50:270][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.09.17-02.21.50:270][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.09.17-02.21.50:270][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.09.17-02.21.50:270][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.09.17-02.21.50:270][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.09.17-02.21.50:270][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.09.17-02.21.50:270][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.09.17-02.21.50:270][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.09.17-02.21.50:270][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.09.17-02.21.50:270][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.09.17-02.21.50:270][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.09.17-02.21.50:270][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.09.17-02.21.50:270][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.09.17-02.21.50:270][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.09.17-02.21.50:270][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.09.17-02.21.50:270][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.09.17-02.21.50:270][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.09.17-02.21.50:270][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.09.17-02.21.50:270][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.09.17-02.21.50:270][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.09.17-02.21.50:270][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.09.17-02.21.50:270][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.09.17-02.21.50:270][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.09.17-02.21.50:270][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.09.17-02.21.50:270][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.09.17-02.21.50:270][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.09.17-02.21.50:270][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.09.17-02.21.50:270][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.09.17-02.21.50:270][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.09.17-02.21.50:270][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.09.17-02.21.50:270][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.09.17-02.21.50:270][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.09.17-02.21.50:270][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.09.17-02.21.50:270][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.09.17-02.21.50:270][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.09.17-02.21.50:270][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.09.17-02.21.50:270][  0]LogInit: Selected Device Profile: [Windows]
+[2019.09.17-02.21.50:270][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.09.17-02.21.50:279][  0]LogHAL: Display: Platform has ~ 7 GB [7469842432 / 8589934592 / 7], which maps to Smaller [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.09.17-02.21.50:279][  0]LogInit: Going up to parent DeviceProfile []
+[2019.09.17-02.21.50:279][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.09.17-02.21.50:279][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.09.17-02.21.50:279][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.09.17-02.21.50:279][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.09.17-02.21.50:279][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.09.17-02.21.50:279][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.09.17-02.21.50:279][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.09.17-02.21.50:279][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.09.17-02.21.50:279][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.09.17-02.21.50:279][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.09.17-02.21.50:279][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.09.17-02.21.50:280][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.09.17-02.21.50:280][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.09.17-02.21.50:280][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.09.17-02.21.50:280][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.09.17-02.21.50:280][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.09.17-02.21.50:280][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.09.17-02.21.50:280][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.09.17-02.21.50:280][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.09.17-02.21.50:280][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.09.17-02.21.50:280][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.09.17-02.21.50:280][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.09.17-02.21.50:280][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.09.17-02.21.50:280][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.09.17-02.21.50:280][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.09.17-02.21.50:280][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.09.17-02.21.50:280][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.09.17-02.21.50:280][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.09.17-02.21.50:280][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.09.17-02.21.50:280][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.09.17-02.21.50:280][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.09.17-02.21.50:280][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.09.17-02.21.50:280][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.09.17-02.21.50:280][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.09.17-02.21.50:280][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.09.17-02.21.50:280][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.09.17-02.21.50:280][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.09.17-02.21.50:280][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.09.17-02.21.50:280][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.09.17-02.21.50:280][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.09.17-02.21.50:280][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.09.17-02.21.50:280][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.09.17-02.21.50:280][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.09.17-02.21.50:280][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.09.17-02.21.50:280][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.09.17-02.21.50:280][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.09.17-02.21.50:280][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.09.17-02.21.50:280][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.09.17-02.21.50:280][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.09.17-02.21.50:280][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.09.17-02.21.50:280][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.09.17-02.21.50:280][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.09.17-02.21.50:280][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.09.17-02.21.50:280][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.09.17-02.21.50:280][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.09.17-02.21.50:280][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.09.17-02.21.50:280][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.09.17-02.21.50:280][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.09.17-02.21.50:280][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.09.17-02.21.50:280][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.09.17-02.21.50:281][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.09.17-02.21.50:281][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.09.17-02.21.50:281][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.09.17-02.21.50:281][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.09.17-02.21.50:281][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.09.17-02.21.50:281][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.09.17-02.21.50:281][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.09.17-02.21.50:281][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.09.17-02.21.50:281][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.09.17-02.21.50:281][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.09.17-02.21.50:281][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.09.17-02.21.50:281][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.09.17-02.21.50:281][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.09.17-02.21.50:281][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.09.17-02.21.50:281][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.09.17-02.21.50:281][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.09.17-02.21.50:281][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.09.17-02.21.50:281][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.09.17-02.21.50:281][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Saved/Config/Windows/Scalability.ini]
+[2019.09.17-02.21.50:281][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.09.17-02.21.50:281][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.09.17-02.21.50:281][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.09.17-02.21.50:282][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.09.17-02.21.50:282][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.09.17-02.21.50:282][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Saved/Config/Windows/Engine.ini]
+[2019.09.17-02.21.50:282][  0]LogInit: Computer: DESKTOP-3KGA5T0
+[2019.09.17-02.21.50:282][  0]LogInit: User: 76422
+[2019.09.17-02.21.50:282][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.09.17-02.21.50:282][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.09.17-02.21.50:282][  0]LogMemory: Memory total: Physical=7.0GB (7GB approx)
+[2019.09.17-02.21.50:282][  0]LogMemory: Platform Memory Stats for Windows
+[2019.09.17-02.21.50:282][  0]LogMemory: Process Physical Memory: 100.27 MB used, 100.28 MB peak
+[2019.09.17-02.21.50:282][  0]LogMemory: Process Virtual Memory: 88.38 MB used, 88.38 MB peak
+[2019.09.17-02.21.50:282][  0]LogMemory: Physical Memory: 4120.77 MB used,  3003.03 MB free, 7123.80 MB total
+[2019.09.17-02.21.50:282][  0]LogMemory: Virtual Memory: 4670.89 MB used,  134213056.00 MB free, 134217728.00 MB total
+[2019.09.17-02.21.50:288][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.09.17-02.21.50:353][  0]LogInit: Overriding language with editor language configuration option (en).
+[2019.09.17-02.21.50:353][  0]LogInit: Overriding locale with editor culture configuration option ().
+[2019.09.17-02.21.50:353][  0]LogInit: Using OS detected locale (zh-CN).
+[2019.09.17-02.21.50:770][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.09.17-02.21.50:770][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.09.17-02.21.51:350][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.09.17-02.21.51:350][  0]LogD3D11RHI: D3D11 adapters:
+[2019.09.17-02.21.51:420][  0]LogD3D11RHI:    0. 'AMD Radeon(TM) Vega 8 Graphics' (Feature Level 11_0)
+[2019.09.17-02.21.51:421][  0]LogD3D11RHI:       1008/0/3561 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2019.09.17-02.21.51:427][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.09.17-02.21.51:427][  0]LogD3D11RHI:       0/0/3561 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.09.17-02.21.51:427][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.09.17-02.21.51:443][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.09.17-02.21.51:443][  0]LogD3D11RHI:     GPU DeviceId: 0x15dd (for the marketing name, search the web for "GPU Device Id")
+[2019.09.17-02.21.51:443][  0]LogWindows: EnumDisplayDevices:
+[2019.09.17-02.21.51:443][  0]LogWindows:    0. 'AMD Radeon(TM) Vega 8 Graphics' (P:1 D:1)
+[2019.09.17-02.21.51:444][  0]LogWindows:    1. 'AMD Radeon(TM) Vega 8 Graphics' (P:0 D:0)
+[2019.09.17-02.21.51:444][  0]LogWindows:    2. 'AMD Radeon(TM) Vega 8 Graphics' (P:0 D:0)
+[2019.09.17-02.21.51:445][  0]LogWindows:    3. 'AMD Radeon(TM) Vega 8 Graphics' (P:0 D:0)
+[2019.09.17-02.21.51:446][  0]LogWindows:    4. 'AMD Radeon(TM) Vega 8 Graphics' (P:0 D:0)
+[2019.09.17-02.21.51:447][  0]LogWindows:    5. 'AMD Radeon(TM) Vega 8 Graphics' (P:0 D:0)
+[2019.09.17-02.21.51:448][  0]LogWindows: DebugString: FoundDriverCount:6 
+[2019.09.17-02.21.51:448][  0]LogD3D11RHI:     Adapter Name: AMD Radeon(TM) Vega 8 Graphics
+[2019.09.17-02.21.51:448][  0]LogD3D11RHI:   Driver Version: Adrenalin 18.50.30.04 (internal:25.20.15030.4003, unified:25.20.15030.4003)
+[2019.09.17-02.21.51:448][  0]LogD3D11RHI:      Driver Date: 5-15-2019
+[2019.09.17-02.21.51:448][  0]LogRHI: Texture pool is 706 MB (70% of 1008 MB)
+[2019.09.17-02.21.51:537][  0]LogD3D11RHI: Async texture creation enabled
+[2019.09.17-02.21.51:555][  0]LogD3D11RHI: GPU Timing Frequency: 25.000000 (Debug: 2 1)
+[2019.09.17-02.21.52:366][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.09.17-02.21.52:387][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.09.17-02.21.52:410][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.09.17-02.21.52:435][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.09.17-02.21.52:464][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.09.17-02.21.52:487][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.09.17-02.21.52:507][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.09.17-02.21.52:534][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.09.17-02.21.52:545][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.09.17-02.21.52:624][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.09.17-02.21.52:624][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.09.17-02.21.52:624][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.09.17-02.21.52:624][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.09.17-02.21.52:624][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.09.17-02.21.52:624][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.09.17-02.21.52:624][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.09.17-02.21.52:624][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.09.17-02.21.52:624][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.09.17-02.21.52:624][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.09.17-02.21.52:624][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.09.17-02.21.52:624][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.09.17-02.21.52:624][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.09.17-02.21.52:624][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.09.17-02.21.52:624][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.09.17-02.21.52:624][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.09.17-02.21.52:624][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.09.17-02.21.52:624][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.09.17-02.21.52:631][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.09.17-02.21.52:676][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.09.17-02.21.52:676][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.09.17-02.21.52:713][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.09.17-02.21.52:713][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.09.17-02.21.52:730][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.09.17-02.21.52:746][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.09.17-02.21.52:763][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.09.17-02.21.52:786][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.09.17-02.21.52:872][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.09.17-02.21.52:872][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.09.17-02.21.52:873][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.09.17-02.21.52:895][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.09.17-02.21.53:044][  0]LogShaderCompilers: Guid format shader working directory is -20 characters bigger than the processId version (../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Intermediate/Shaders/WorkingDirectory/12368/).
+[2019.09.17-02.21.53:045][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/76422/AppData/Local/Temp/UnrealShaderWorkingDir/2CF15A9A4B7EA7ED7CB61E9C46C4C43E/'.
+[2019.09.17-02.21.53:053][  0]LogXGEController: Cleaning working directory: C:/Users/76422/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.09.17-02.21.53:054][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.09.17-02.21.53:055][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.09.17-02.21.53:055][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.09.17-02.21.54:578][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.09.17-02.21.54:681][  0]LogDerivedDataCache: Loaded boot cache 0.10s 73MB C:/Users/76422/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.09.17-02.21.54:681][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/76422/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.09.17-02.21.54:681][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.09.17-02.21.54:681][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.09.17-02.21.54:681][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.09.17-02.21.54:681][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.09.17-02.21.54:712][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.09.17-02.21.54:712][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.09.17-02.21.54:712][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.09.17-02.21.54:717][  0]LogDerivedDataCache: Using Local data cache path C:/Users/76422/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.09.17-02.21.54:717][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.09.17-02.21.54:717][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.09.17-02.21.54:774][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.09.17-02.21.54:781][  0]LogSlate: Using FreeType 2.6.0
+[2019.09.17-02.21.54:783][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.09.17-02.21.54:968][  0]LogAssetRegistry: FAssetRegistry took 0.0065 seconds to start up
+[2019.09.17-02.21.55:697][  0]LogInit: Selected Device Profile: [Windows]
+[2019.09.17-02.21.56:051][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.09.17-02.21.56:051][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.09.17-02.21.56:051][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.09.17-02.21.56:051][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.09.17-02.21.56:051][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.09.17-02.21.56:072][  0]LogNetVersion: Ball 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 2943561836)
+[2019.09.17-02.21.57:180][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.146065 seconds
+[2019.09.17-02.21.57:199][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2019.09.17-02.21.57:199][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2019.09.17-02.21.57:199][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.09.17-02.21.59:868][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.09.17-02.21.59:879][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.09.17-02.22.00:095][  0]SourceControl: Source control is disabled
+[2019.09.17-02.22.00:095][  0]SourceControl: Source control is disabled
+[2019.09.17-02.22.00:101][  0]SourceControl: Source control is disabled
+[2019.09.17-02.22.00:105][  0]SourceControl: Source control is disabled
+[2019.09.17-02.22.00:475][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.09.17-02.22.00:761][  0]LogOcInput: OculusInput pre-init called
+[2019.09.17-02.22.00:799][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2019.09.17-02.22.00:799][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2019.09.17-02.22.01:026][  0]LogEngine: Initializing Engine...
+[2019.09.17-02.22.01:031][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.09.17-02.22.01:034][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2019.09.17-02.22.01:518][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.09.17-02.22.01:549][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.09.17-02.22.01:567][  0]LogInit: XAudio2 using '扬声器 (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.17-02.22.01:617][  0]LogInit: FAudioDevice initialized.
+[2019.09.17-02.22.01:617][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.09.17-02.22.01:749][  0]LogDerivedDataCache: Saved boot cache 0.13s 73MB C:/Users/76422/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.09.17-02.22.01:751][  0]LogInit: Texture streaming: Enabled
+[2019.09.17-02.22.01:792][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.09.17-02.22.01:886][  0]LogInit: Transaction tracking system initialized
+[2019.09.17-02.22.01:972][  0]BlueprintLog: New page: Editor Load
+[2019.09.17-02.22.02:195][  0]LocalizationService: Localization service is disabled
+[2019.09.17-02.22.02:794][  0]LogFileCache: Scanning file cache for directory 'C:/Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/' took 0.01s
+[2019.09.17-02.22.02:794][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.09.17-02.22.02:794][  0]LogCook: Display: Mobile HDR setting 1
+[2019.09.17-02.22.03:264][  0]SourceControl: Source control is disabled
+[2019.09.17-02.22.03:264][  0]Cmd: MAP LOAD FILE="../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/Maps/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.09.17-02.22.03:265][  0]LightingResults: New page: Lighting Build
+[2019.09.17-02.22.03:272][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.09.17-02.22.03:272][  0]MapCheck: New page: Map Check
+[2019.09.17-02.22.03:272][  0]LightingResults: New page: Lighting Build
+[2019.09.17-02.22.03:308][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2019.09.17-02.22.03:648][  0]LogAIModule: Creating AISystem for world Level1
+[2019.09.17-02.22.03:692][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.09.17-02.22.03:736][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2019.09.17-02.22.03:736][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.09.17-02.22.03:737][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.673ms to complete.
+[2019.09.17-02.22.03:737][  0]LogFileHelpers: Loading map 'Level1' took 0.473
+[2019.09.17-02.22.03:903][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.17-02.22.03:916][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.17-02.22.03:933][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.17-02.22.03:943][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.17-02.22.03:958][  0]LogCollectionManager: Loaded 0 collections in 0.004507 seconds
+[2019.09.17-02.22.03:975][  0]LogFileCache: Scanning file cache for directory 'C:/Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Saved/Collections/' took 0.00s
+[2019.09.17-02.22.03:975][  0]LogFileCache: Scanning file cache for directory 'C:/Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/Developers/76422/Collections/' took 0.00s
+[2019.09.17-02.22.03:975][  0]LogFileCache: Scanning file cache for directory 'C:/Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/Collections/' took 0.00s
+[2019.09.17-02.22.03:975][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2019.09.17-02.22.03:991][  0]LogContentBrowser: Native class hierarchy populated in 0.0161 seconds. Added 2863 classes and 680 folders.
+[2019.09.17-02.22.04:006][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2019.09.17-02.22.04:184][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2019.09.17-02.22.04:199][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2019.09.17-02.22.04:222][  0]LogSlate: Took 0.000502 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.09.17-02.22.04:226][  0]LogSlate: Took 0.000566 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.09.17-02.22.04:238][  0]LogSlate: Took 0.000736 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.09.17-02.22.04:372][  0]LogRenderer: Reallocating scene render targets to support 964x480 Format 10 NumSamples 1 (Frame:1).
+[2019.09.17-02.22.04:575][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2019.09.17-02.22.04:575][  0]LogLoad: (Engine Initialization) Total time: 20.07 seconds
+[2019.09.17-02.22.04:575][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.09.17-02.22.04:640][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.09.17-02.22.04:683][  0]LogSlate: Took 0.000642 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.09.17-02.22.04:809][  2]LogAssetRegistry: Asset discovery search completed in 9.8431 seconds
+[2019.09.17-02.22.04:816][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000013 seconds (found 0 objects)
+[2019.09.17-02.22.04:816][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000144 seconds (updated 0 objects)
+[2019.09.17-02.22.06:130][  6]LogSlate: Took 0.000656 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.09.17-02.22.30:568][250]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.17-02.22.30:728][253]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BulePrints/BP_Crystal.BP_Crystal
+[2019.09.17-02.22.31:281][253]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0013 seconds. Added 121 classes and 0 folders.
+[2019.09.17-02.22.32:988][253]LogSlate: Took 0.000750 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.09.17-02.22.34:367][339]LogSlate: Took 0.000505 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.09.17-02.22.35:330][385]LogRenderer: Reallocating scene render targets to support 964x540 Format 10 NumSamples 1 (Frame:1).
+[2019.09.17-02.22.43:019][538]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.17-02.22.49:945][773]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.17-02.23.23:249][228]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.17-02.23.23:314][233]BlueprintLog: New page: Compile BP_Crystal
+[2019.09.17-02.23.23:764][233]LogUObjectHash: Compacting FUObjectHashTables data took   7.93ms
+[2019.09.17-02.23.30:052][620]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.17-02.28.11:556][677]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.17-02.29.06:632][932]LogAssetEditorManager: Opening Asset editor for Material /Game/Materials/M_CryStal.M_CryStal
+[2019.09.17-02.29.06:650][932]LogMaterial: Display: Missing cached shader map for material M_CryStal, compiling. 
+[2019.09.17-02.29.07:346][932]LogMaterial: Display: Missing cached shader map for material M_CryStal, compiling. 
+[2019.09.17-02.29.07:467][932]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2019.09.17-02.29.07:467][932]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 20
+[2019.09.17-02.29.07:467][932]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2019.09.17-02.29.07:467][932]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 18
+[2019.09.17-02.29.08:786][967]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2019.09.17-02.29.08:786][967]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 16
+[2019.09.17-02.29.08:786][967]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 15
+[2019.09.17-02.29.08:810][968]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2019.09.17-02.29.09:145][980]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2019.09.17-02.29.09:145][980]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2019.09.17-02.29.09:169][981]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2019.09.17-02.29.09:241][984]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2019.09.17-02.29.09:676][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2019.09.17-02.29.09:921][  9]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2019.09.17-02.29.10:360][ 25]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2019.09.17-02.29.10:551][ 30]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2019.09.17-02.29.10:989][ 41]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2019.09.17-02.29.11:095][ 44]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2019.09.17-02.29.11:316][ 50]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2019.09.17-02.29.11:541][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BulePrints/BP_Crystal" FILE="../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/BulePrints/BP_Crystal.uasset" SILENT=true
+[2019.09.17-02.29.11:598][ 54]LogSavePackage: Moving '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Saved/BP_Crystal8AE2579F4C76EAE6F2606692CD7597C7.tmp' to '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/BulePrints/BP_Crystal.uasset'
+[2019.09.17-02.29.11:694][ 56]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2019.09.17-02.29.11:757][ 58]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2019.09.17-02.29.12:493][ 73]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2019.09.17-02.29.12:749][ 80]MaterialEditorStats: Base pass shader: 117 instructions
+[2019.09.17-02.29.12:749][ 80]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2019.09.17-02.29.12:749][ 80]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.09.17-02.29.12:750][ 80]MaterialEditorStats: Texture samplers: 3/16
+[2019.09.17-02.29.14:190][130]LogSlate: Window 'M_CryStal' being destroyed
+[2019.09.17-02.32.04:926][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   7.85ms
+[2019.09.17-02.32.05:459][ 51]LogSavePackage: Moving '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Saved/Level1_Auto1E13B4FC4420ABFE68037D69B19262849.tmp' to '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Saved/Autosaves/Game/Maps/Level1_Auto1.umap'
+[2019.09.17-02.32.05:468][ 51]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level1' took 0.611
+[2019.09.17-02.32.05:468][ 51]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.611
+[2019.09.17-02.32.05:476][ 51]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/M_CryStal] ([1] browsable assets)...
+[2019.09.17-02.32.05:525][ 51]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/M_CryStal.M_CryStal]
+[2019.09.17-02.32.05:525][ 51]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/M_CryStal]
+[2019.09.17-02.32.05:552][ 51]LogSavePackage: Moving '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Saved/M_CryStal_Auto11878E098427202171D6B66B613DBF44E.tmp' to '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Saved/Autosaves/Game/Materials/M_CryStal_Auto1.uasset'
+[2019.09.17-02.32.05:556][ 51]LogFileHelpers: Auto-saving content packages took 0.085
+[2019.09.17-02.32.44:040][225]LogMaterial: Display: Missing cached shader map for material M_CryStal, compiling. 
+[2019.09.17-02.32.44:077][225]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2019.09.17-02.32.44:077][225]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 20
+[2019.09.17-02.32.44:077][225]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2019.09.17-02.32.44:077][225]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 18
+[2019.09.17-02.32.44:077][225]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.09.17-02.32.44:457][239]LogMaterial: Display: Missing cached shader map for material M_CryStal, compiling. 
+[2019.09.17-02.32.44:484][239]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2019.09.17-02.32.44:903][255]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 29
+[2019.09.17-02.32.44:909][255]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 28
+[2019.09.17-02.32.44:915][255]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 27
+[2019.09.17-02.32.44:927][256]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 26
+[2019.09.17-02.32.45:057][261]LogEditorTransaction: Undo Material Editor: New Expression
+[2019.09.17-02.32.45:066][261]LogMaterial: Display: Missing cached shader map for material M_CryStal, compiling. 
+[2019.09.17-02.32.45:114][261]LogMaterial: Display: Missing cached shader map for material M_CryStal, compiling. 
+[2019.09.17-02.32.45:284][264]LogEditorTransaction: Undo Material Editor: New Expression
+[2019.09.17-02.32.45:291][264]LogMaterial: Display: Missing cached shader map for material M_CryStal, compiling. 
+[2019.09.17-02.32.45:320][264]LogMaterial: Display: Missing cached shader map for material M_CryStal, compiling. 
+[2019.09.17-02.32.45:446][265]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 25
+[2019.09.17-02.32.45:446][265]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 24
+[2019.09.17-02.32.45:526][267]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 23
+[2019.09.17-02.32.45:530][267]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 22
+[2019.09.17-02.32.46:187][291]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 21
+[2019.09.17-02.32.46:187][291]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 20
+[2019.09.17-02.32.46:228][293]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 19
+[2019.09.17-02.32.46:254][294]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 18
+[2019.09.17-02.32.46:692][314]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2019.09.17-02.32.46:692][314]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 16
+[2019.09.17-02.32.46:735][316]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2019.09.17-02.32.46:754][317]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 14
+[2019.09.17-02.32.46:995][328]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 13
+[2019.09.17-02.32.47:204][338]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2019.09.17-02.32.47:204][338]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2019.09.17-02.32.47:244][340]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2019.09.17-02.32.47:431][349]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2019.09.17-02.32.47:825][367]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2019.09.17-02.32.48:271][387]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2019.09.17-02.32.48:319][389]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2019.09.17-02.32.48:490][398]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2019.09.17-02.32.48:877][417]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2019.09.17-02.32.48:978][422]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2019.09.17-02.32.49:449][445]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2019.09.17-02.32.49:520][449]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2019.09.17-02.32.50:523][486]MaterialEditorStats: Base pass shader: 117 instructions
+[2019.09.17-02.32.50:523][486]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2019.09.17-02.32.50:523][486]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.09.17-02.32.50:523][486]MaterialEditorStats: Texture samplers: 3/16
+[2019.09.17-02.33.48:671][ 86]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.17-02.33.58:513][671]LogMaterial: Display: Missing cached shader map for material M_CryStal, compiling. 
+[2019.09.17-02.33.58:534][671]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2019.09.17-02.33.58:535][671]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 20
+[2019.09.17-02.33.58:535][671]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2019.09.17-02.33.58:535][671]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 18
+[2019.09.17-02.33.58:535][671]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_2, compiling. 
+[2019.09.17-02.33.59:293][705]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2019.09.17-02.33.59:293][705]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 20
+[2019.09.17-02.33.59:293][705]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2019.09.17-02.33.59:311][706]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 18
+[2019.09.17-02.33.59:527][716]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 17
+[2019.09.17-02.33.59:752][726]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 16
+[2019.09.17-02.33.59:753][726]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 15
+[2019.09.17-02.33.59:770][727]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2019.09.17-02.33.59:936][736]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2019.09.17-02.34.00:359][755]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2019.09.17-02.34.00:762][775]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2019.09.17-02.34.00:794][777]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2019.09.17-02.34.00:893][783]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2019.09.17-02.34.01:263][805]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2019.09.17-02.34.01:295][807]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2019.09.17-02.34.01:653][828]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2019.09.17-02.34.01:675][828]LogMaterial: Display: Missing cached shader map for material M_CryStal, compiling. 
+[2019.09.17-02.34.01:706][828]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2019.09.17-02.34.01:720][828]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_2, compiling. 
+[2019.09.17-02.34.01:764][830]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 25
+[2019.09.17-02.34.01:939][837]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 24
+[2019.09.17-02.34.02:256][850]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 23
+[2019.09.17-02.34.02:407][857]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 22
+[2019.09.17-02.34.02:416][858]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 21
+[2019.09.17-02.34.02:503][859]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 20
+[2019.09.17-02.34.02:688][867]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 19
+[2019.09.17-02.34.02:903][875]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 18
+[2019.09.17-02.34.02:916][876]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2019.09.17-02.34.02:963][878]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 16
+[2019.09.17-02.34.03:121][885]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2019.09.17-02.34.03:164][887]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 14
+[2019.09.17-02.34.03:301][893]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2019.09.17-02.34.03:724][912]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2019.09.17-02.34.03:955][926]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2019.09.17-02.34.04:122][936]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2019.09.17-02.34.04:238][943]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2019.09.17-02.34.04:438][955]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2019.09.17-02.34.04:590][964]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2019.09.17-02.34.04:940][985]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2019.09.17-02.34.05:021][990]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2019.09.17-02.34.05:155][998]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2019.09.17-02.34.05:322][  8]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2019.09.17-02.34.05:521][ 20]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2019.09.17-02.34.05:640][ 26]LogMaterial: Display: Missing cached shader map for material M_CryStal, compiling. 
+[2019.09.17-02.34.05:683][ 26]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_2, compiling. 
+[2019.09.17-02.34.05:720][ 27]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 25
+[2019.09.17-02.34.05:757][ 29]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 24
+[2019.09.17-02.34.05:972][ 38]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 23
+[2019.09.17-02.34.06:067][ 42]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 22
+[2019.09.17-02.34.06:184][ 47]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 21
+[2019.09.17-02.34.06:205][ 48]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 20
+[2019.09.17-02.34.06:417][ 57]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 19
+[2019.09.17-02.34.06:547][ 62]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 18
+[2019.09.17-02.34.06:664][ 67]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2019.09.17-02.34.06:677][ 68]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 16
+[2019.09.17-02.34.06:769][ 72]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2019.09.17-02.34.06:895][ 77]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 14
+[2019.09.17-02.34.07:085][ 85]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 13
+[2019.09.17-02.34.07:432][104]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.09.17-02.34.07:433][104]LogMaterial: Display: Missing cached shader map for material M_CryStal, compiling. 
+[2019.09.17-02.34.07:471][104]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_2, compiling. 
+[2019.09.17-02.34.07:635][111]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 25
+[2019.09.17-02.34.07:773][117]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 24
+[2019.09.17-02.34.08:100][131]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 23
+[2019.09.17-02.34.08:147][133]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 22
+[2019.09.17-02.34.08:163][134]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 21
+[2019.09.17-02.34.08:259][138]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 20
+[2019.09.17-02.34.08:582][152]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 19
+[2019.09.17-02.34.08:652][155]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 18
+[2019.09.17-02.34.08:665][156]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 17
+[2019.09.17-02.34.08:737][159]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 16
+[2019.09.17-02.34.08:881][165]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 15
+[2019.09.17-02.34.09:038][172]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 14
+[2019.09.17-02.34.09:059][173]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2019.09.17-02.34.09:653][200]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2019.09.17-02.34.09:789][206]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2019.09.17-02.34.09:968][214]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2019.09.17-02.34.10:064][218]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2019.09.17-02.34.10:366][231]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2019.09.17-02.34.10:703][245]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2019.09.17-02.34.10:975][257]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2019.09.17-02.34.10:997][258]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2019.09.17-02.34.11:166][266]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.09.17-02.34.11:569][283]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2019.09.17-02.34.11:601][284]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2019.09.17-02.34.11:899][297]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2019.09.17-02.34.11:933][298]MaterialEditorStats: Base pass shader: 117 instructions
+[2019.09.17-02.34.11:933][298]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2019.09.17-02.34.11:933][298]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.09.17-02.34.11:933][298]MaterialEditorStats: Texture samplers: 3/16
+[2019.09.17-02.35.09:297][163]LogMaterial: Display: Missing cached shader map for material M_CryStal, compiling. 
+[2019.09.17-02.35.09:319][163]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_2, compiling. 
+[2019.09.17-02.35.09:330][163]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2019.09.17-02.35.09:330][163]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 20
+[2019.09.17-02.35.09:330][163]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2019.09.17-02.35.09:330][163]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 18
+[2019.09.17-02.35.09:332][163]LogSlate: Window 'Color Picker' being destroyed
+[2019.09.17-02.35.10:190][214]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 21
+[2019.09.17-02.35.10:208][215]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 20
+[2019.09.17-02.35.10:222][216]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 19
+[2019.09.17-02.35.10:222][216]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 18
+[2019.09.17-02.35.10:476][231]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2019.09.17-02.35.10:727][246]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 16
+[2019.09.17-02.35.10:762][248]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 15
+[2019.09.17-02.35.10:776][249]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 14
+[2019.09.17-02.35.10:976][261]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 13
+[2019.09.17-02.35.11:584][297]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2019.09.17-02.35.12:113][328]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2019.09.17-02.35.12:179][332]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2019.09.17-02.35.12:310][340]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2019.09.17-02.35.12:765][367]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2019.09.17-02.35.12:879][374]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2019.09.17-02.35.13:427][407]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2019.09.17-02.35.13:445][408]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2019.09.17-02.35.13:596][417]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2019.09.17-02.35.13:864][432]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2019.09.17-02.35.14:039][442]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2019.09.17-02.35.14:279][454]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.17-02.35.14:383][460]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2019.09.17-02.35.14:446][462]MaterialEditorStats: Base pass shader: 117 instructions
+[2019.09.17-02.35.14:446][462]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2019.09.17-02.35.14:446][462]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.09.17-02.35.14:446][462]MaterialEditorStats: Texture samplers: 3/16
+[2019.09.17-02.35.19:170][742]LogMaterial: Display: Missing cached shader map for material M_CryStal, compiling. 
+[2019.09.17-02.35.19:199][742]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2019.09.17-02.35.19:199][742]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 20
+[2019.09.17-02.35.19:199][742]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2019.09.17-02.35.19:199][742]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 18
+[2019.09.17-02.35.19:199][742]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_2, compiling. 
+[2019.09.17-02.35.19:701][764]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 21
+[2019.09.17-02.35.19:702][764]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 20
+[2019.09.17-02.35.19:707][764]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 19
+[2019.09.17-02.35.19:721][765]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 18
+[2019.09.17-02.35.19:960][776]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 17
+[2019.09.17-02.35.20:155][784]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 16
+[2019.09.17-02.35.20:189][786]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 15
+[2019.09.17-02.35.20:192][786]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 14
+[2019.09.17-02.35.20:353][793]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 13
+[2019.09.17-02.35.20:793][812]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2019.09.17-02.35.21:219][831]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2019.09.17-02.35.21:313][835]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2019.09.17-02.35.21:405][839]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2019.09.17-02.35.21:849][857]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2019.09.17-02.35.21:897][859]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2019.09.17-02.35.22:444][882]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2019.09.17-02.35.22:472][883]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2019.09.17-02.35.22:568][887]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2019.09.17-02.35.22:754][895]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2019.09.17-02.35.23:054][907]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2019.09.17-02.35.23:150][911]LogMaterial: Display: Missing cached shader map for material M_CryStal, compiling. 
+[2019.09.17-02.35.23:201][911]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_2, compiling. 
+[2019.09.17-02.35.23:223][911]LogSlate: Window 'Color Picker' being destroyed
+[2019.09.17-02.35.23:345][918]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 25
+[2019.09.17-02.35.23:443][923]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 24
+[2019.09.17-02.35.23:579][928]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 23
+[2019.09.17-02.35.23:687][933]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 22
+[2019.09.17-02.35.23:895][944]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2019.09.17-02.35.24:004][949]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 20
+[2019.09.17-02.35.24:108][954]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 19
+[2019.09.17-02.35.24:228][960]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 18
+[2019.09.17-02.35.24:453][971]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 17
+[2019.09.17-02.35.24:535][975]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 16
+[2019.09.17-02.35.24:557][976]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 15
+[2019.09.17-02.35.24:663][981]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 14
+[2019.09.17-02.35.24:903][992]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 13
+[2019.09.17-02.35.25:356][ 13]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2019.09.17-02.35.25:733][ 30]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2019.09.17-02.35.25:779][ 32]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2019.09.17-02.35.26:088][ 45]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2019.09.17-02.35.26:432][ 59]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2019.09.17-02.35.26:579][ 65]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2019.09.17-02.35.26:967][ 81]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2019.09.17-02.35.27:113][ 87]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2019.09.17-02.35.27:298][ 94]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2019.09.17-02.35.27:577][105]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2019.09.17-02.35.27:792][113]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2019.09.17-02.35.28:007][120]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2019.09.17-02.35.28:119][122]MaterialEditorStats: Base pass shader: 117 instructions
+[2019.09.17-02.35.28:119][122]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2019.09.17-02.35.28:119][122]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.09.17-02.35.28:119][122]MaterialEditorStats: Texture samplers: 3/16
+[2019.09.17-02.35.30:939][281]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.17-02.35.33:727][443]LogMaterial: Display: Missing cached shader map for material M_CryStal, compiling. 
+[2019.09.17-02.35.33:750][443]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2019.09.17-02.35.33:750][443]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 20
+[2019.09.17-02.35.33:750][443]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2019.09.17-02.35.33:750][443]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 18
+[2019.09.17-02.35.33:758][443]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_2, compiling. 
+[2019.09.17-02.35.34:305][460]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 21
+[2019.09.17-02.35.34:305][460]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 20
+[2019.09.17-02.35.34:322][460]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 19
+[2019.09.17-02.35.34:323][460]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 18
+[2019.09.17-02.35.34:610][467]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 17
+[2019.09.17-02.35.34:685][469]LogMaterial: Display: Missing cached shader map for material M_CryStal, compiling. 
+[2019.09.17-02.35.34:745][469]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_2, compiling. 
+[2019.09.17-02.35.34:766][469]LogSlate: Window 'Color Picker' being destroyed
+[2019.09.17-02.35.34:875][474]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 25
+[2019.09.17-02.35.34:881][474]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 24
+[2019.09.17-02.35.34:892][474]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 23
+[2019.09.17-02.35.35:102][480]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 22
+[2019.09.17-02.35.35:445][489]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2019.09.17-02.35.35:461][489]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 20
+[2019.09.17-02.35.35:473][490]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 19
+[2019.09.17-02.35.35:662][495]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 18
+[2019.09.17-02.35.35:982][503]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 17
+[2019.09.17-02.35.35:990][503]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 16
+[2019.09.17-02.35.36:011][504]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 15
+[2019.09.17-02.35.36:024][504]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 14
+[2019.09.17-02.35.36:444][513]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2019.09.17-02.35.36:703][521]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2019.09.17-02.35.37:125][533]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2019.09.17-02.35.37:207][535]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2019.09.17-02.35.37:618][546]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2019.09.17-02.35.37:821][550]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2019.09.17-02.35.37:968][555]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2019.09.17-02.35.38:581][571]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2019.09.17-02.35.38:644][573]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2019.09.17-02.35.39:138][586]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.09.17-02.35.39:210][588]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2019.09.17-02.35.39:401][592]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2019.09.17-02.35.39:697][600]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2019.09.17-02.35.39:780][602]MaterialEditorStats: Base pass shader: 117 instructions
+[2019.09.17-02.35.39:780][602]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2019.09.17-02.35.39:780][602]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.09.17-02.35.39:780][602]MaterialEditorStats: Texture samplers: 3/16
+[2019.09.17-02.36.09:876][758]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.17-02.36.11:002][815]LogMaterial: Display: Missing cached shader map for material M_CryStal, compiling. 
+[2019.09.17-02.36.11:053][817]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2019.09.17-02.36.11:053][817]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 20
+[2019.09.17-02.36.11:053][817]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2019.09.17-02.36.11:053][817]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 18
+[2019.09.17-02.36.11:400][832]LogMaterial: Display: Missing cached shader map for material M_CryStal, compiling. 
+[2019.09.17-02.36.11:927][852]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2019.09.17-02.36.11:946][852]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 20
+[2019.09.17-02.36.11:946][852]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 19
+[2019.09.17-02.36.11:963][852]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 18
+[2019.09.17-02.36.12:356][852]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 17
+[2019.09.17-02.36.12:356][852]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 16
+[2019.09.17-02.36.12:356][852]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 15
+[2019.09.17-02.36.12:356][852]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 14
+[2019.09.17-02.36.12:603][852]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2019.09.17-02.36.12:747][852]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2019.09.17-02.36.12:765][852]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2019.09.17-02.36.12:765][852]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2019.09.17-02.36.12:945][852]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2019.09.17-02.36.13:232][852]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2019.09.17-02.36.13:302][852]LogSlate: Window 'Warning: No Preview Mesh Found' being destroyed
+[2019.09.17-02.36.13:772][872]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2019.09.17-02.36.13:817][874]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2019.09.17-02.36.14:016][881]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2019.09.17-02.36.14:418][895]LogMaterial: Display: Missing cached shader map for material M_CryStal, compiling. 
+[2019.09.17-02.36.14:467][896]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2019.09.17-02.36.14:468][896]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 20
+[2019.09.17-02.36.15:122][916]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 19
+[2019.09.17-02.36.15:160][918]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 18
+[2019.09.17-02.36.15:177][919]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 17
+[2019.09.17-02.36.15:368][926]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 16
+[2019.09.17-02.36.15:716][940]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 15
+[2019.09.17-02.36.15:794][943]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2019.09.17-02.36.15:800][943]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 13
+[2019.09.17-02.36.15:952][949]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2019.09.17-02.36.16:102][954]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2019.09.17-02.36.16:289][962]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2019.09.17-02.36.16:296][962]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2019.09.17-02.36.17:010][989]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2019.09.17-02.36.17:210][996]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2019.09.17-02.36.17:370][  2]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2019.09.17-02.36.17:458][  5]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2019.09.17-02.36.17:906][ 20]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.09.17-02.36.18:268][ 31]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2019.09.17-02.36.18:619][ 42]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2019.09.17-02.36.18:634][ 42]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2019.09.17-02.36.20:159][ 76]MaterialEditorStats: Base pass shader: 117 instructions
+[2019.09.17-02.36.20:159][ 76]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2019.09.17-02.36.20:159][ 76]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.09.17-02.36.20:159][ 76]MaterialEditorStats: Texture samplers: 3/16
+[2019.09.17-02.37.38:165][550]LogMaterial: Display: Missing cached shader map for material M_CryStal, compiling. 
+[2019.09.17-02.37.38:209][551]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2019.09.17-02.37.38:209][551]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 20
+[2019.09.17-02.37.38:209][551]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2019.09.17-02.37.38:209][551]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 18
+[2019.09.17-02.37.39:033][599]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 17
+[2019.09.17-02.37.39:047][600]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 16
+[2019.09.17-02.37.39:047][600]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 15
+[2019.09.17-02.37.39:050][600]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 14
+[2019.09.17-02.37.39:300][614]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 13
+[2019.09.17-02.37.39:529][627]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2019.09.17-02.37.39:529][627]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2019.09.17-02.37.39:546][628]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2019.09.17-02.37.39:700][637]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2019.09.17-02.37.40:204][667]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2019.09.17-02.37.40:689][696]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2019.09.17-02.37.40:789][702]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2019.09.17-02.37.40:905][709]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2019.09.17-02.37.41:119][721]LogMaterial: Display: Missing cached shader map for material M_CryStal, compiling. 
+[2019.09.17-02.37.41:154][721]LogMaterial: Display: Missing cached shader map for material M_CryStal, compiling. 
+[2019.09.17-02.37.41:287][728]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 21
+[2019.09.17-02.37.41:338][731]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 20
+[2019.09.17-02.37.41:848][760]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2019.09.17-02.37.41:896][763]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 18
+[2019.09.17-02.37.41:896][763]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 17
+[2019.09.17-02.37.42:050][772]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 16
+[2019.09.17-02.37.42:340][786]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 15
+[2019.09.17-02.37.42:377][788]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 14
+[2019.09.17-02.37.42:403][789]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2019.09.17-02.37.42:533][796]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2019.09.17-02.37.42:594][799]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2019.09.17-02.37.42:754][805]LogMaterial: Display: Missing cached shader map for material M_CryStal, compiling. 
+[2019.09.17-02.37.42:775][805]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 21
+[2019.09.17-02.37.42:775][805]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 20
+[2019.09.17-02.37.43:209][831]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2019.09.17-02.37.43:223][832]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 18
+[2019.09.17-02.37.43:328][837]LogMaterial: Display: Missing cached shader map for material M_CryStal, compiling. 
+[2019.09.17-02.37.43:371][837]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_2, compiling. 
+[2019.09.17-02.37.43:383][837]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 21
+[2019.09.17-02.37.43:524][845]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 24
+[2019.09.17-02.37.43:666][852]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 23
+[2019.09.17-02.37.43:682][853]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 22
+[2019.09.17-02.37.43:900][866]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 21
+[2019.09.17-02.37.44:040][874]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 20
+[2019.09.17-02.37.44:147][880]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2019.09.17-02.37.44:166][881]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 18
+[2019.09.17-02.37.44:402][893]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 17
+[2019.09.17-02.37.44:403][893]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 16
+[2019.09.17-02.37.44:468][897]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2019.09.17-02.37.44:550][902]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2019.09.17-02.37.44:736][913]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2019.09.17-02.37.45:020][930]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2019.09.17-02.37.45:208][940]LogMaterial: Display: Missing cached shader map for material M_CryStal, compiling. 
+[2019.09.17-02.37.45:238][940]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2019.09.17-02.37.45:366][948]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 24
+[2019.09.17-02.37.45:744][970]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 23
+[2019.09.17-02.37.46:040][986]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 22
+[2019.09.17-02.37.46:104][990]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 21
+[2019.09.17-02.37.46:139][992]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 20
+[2019.09.17-02.37.46:342][  4]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 19
+[2019.09.17-02.37.46:626][ 21]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 18
+[2019.09.17-02.37.46:652][ 22]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2019.09.17-02.37.46:713][ 26]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 16
+[2019.09.17-02.37.46:867][ 35]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 15
+[2019.09.17-02.37.47:165][ 53]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 14
+[2019.09.17-02.37.47:233][ 57]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2019.09.17-02.37.47:250][ 58]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2019.09.17-02.37.47:405][ 67]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2019.09.17-02.37.47:422][ 68]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2019.09.17-02.37.47:658][ 82]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2019.09.17-02.37.48:081][107]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2019.09.17-02.37.48:466][129]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2019.09.17-02.37.48:698][143]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2019.09.17-02.37.48:865][153]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2019.09.17-02.37.49:117][168]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2019.09.17-02.37.49:307][179]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2019.09.17-02.37.49:827][209]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2019.09.17-02.37.49:934][215]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2019.09.17-02.37.50:750][261]MaterialEditorStats: Base pass shader: 117 instructions
+[2019.09.17-02.37.50:751][261]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2019.09.17-02.37.50:751][261]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.09.17-02.37.50:751][261]MaterialEditorStats: Texture samplers: 3/16
+[2019.09.17-02.38.00:359][368]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.17-02.38.01:476][423]LogMaterialEditor: Applying material M_CryStal
+[2019.09.17-02.38.02:175][423]LogMaterial: Display: Missing cached shader map for material M_CryStal, compiling. 
+[2019.09.17-02.38.02:307][423]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2019.09.17-02.38.02:307][423]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 20
+[2019.09.17-02.38.02:307][423]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2019.09.17-02.38.02:307][423]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 18
+[2019.09.17-02.38.02:341][423]LogMaterial: Display: Missing cached shader map for material M_CryStal, compiling. 
+[2019.09.17-02.38.02:390][423]LogMaterial: Display: Missing cached shader map for material M_CryStal, compiling. 
+[2019.09.17-02.38.02:472][423]LogUObjectHash: Compacting FUObjectHashTables data took   6.68ms
+[2019.09.17-02.38.02:491][423]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.09.17-02.38.05:516][423]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 41
+[2019.09.17-02.38.05:516][423]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 40
+[2019.09.17-02.38.05:516][423]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 39
+[2019.09.17-02.38.05:516][423]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 38
+[2019.09.17-02.38.05:516][423]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 37
+[2019.09.17-02.38.05:516][423]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 36
+[2019.09.17-02.38.05:516][423]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 35
+[2019.09.17-02.38.05:516][423]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 34
+[2019.09.17-02.38.05:516][423]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 33
+[2019.09.17-02.38.05:516][423]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 32
+[2019.09.17-02.38.05:516][423]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 31
+[2019.09.17-02.38.05:516][423]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 30
+[2019.09.17-02.38.05:516][423]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 29
+[2019.09.17-02.38.05:516][423]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 28
+[2019.09.17-02.38.05:516][423]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 27
+[2019.09.17-02.38.05:516][423]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 26
+[2019.09.17-02.38.05:516][423]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 25
+[2019.09.17-02.38.05:516][423]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 24
+[2019.09.17-02.38.05:516][423]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 23
+[2019.09.17-02.38.05:516][423]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 22
+[2019.09.17-02.38.05:516][423]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 16
+[2019.09.17-02.38.05:516][423]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2019.09.17-02.38.05:524][423]TextureStreamingBuild: Display: Compiling optional shaders took 3.053 seconds.
+[2019.09.17-02.38.05:573][423]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2019.09.17-02.38.05:619][424]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2019.09.17-02.38.06:317][456]LogMaterialEditor: Saving and Compiling material M_CryStal
+[2019.09.17-02.38.08:746][456]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2019.09.17-02.38.08:746][456]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2019.09.17-02.38.08:746][456]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2019.09.17-02.38.08:746][456]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2019.09.17-02.38.08:789][456]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_CryStal" FILE="../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/Materials/M_CryStal.uasset" SILENT=true
+[2019.09.17-02.38.08:811][456]LogSavePackage: Moving '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Saved/M_CryStalBAE255F846A5AADE7804F68333E27C72.tmp' to '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/Materials/M_CryStal.uasset'
+[2019.09.17-02.38.08:857][456]MaterialEditorStats: Base pass shader: 117 instructions
+[2019.09.17-02.38.08:857][456]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2019.09.17-02.38.08:857][456]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.09.17-02.38.08:857][456]MaterialEditorStats: Texture samplers: 3/16
+[2019.09.17-02.38.11:408][548]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2019.09.17-02.38.19:941][947]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BulePrints/BP_Crystal.BP_Crystal
+[2019.09.17-02.39.04:271][609]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.17-02.39.27:742][238]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.17-02.39.27:824][243]BlueprintLog: New page: Compile BP_Crystal
+[2019.09.17-02.39.28:290][243]LogUObjectHash: Compacting FUObjectHashTables data took   6.19ms
+[2019.09.17-02.39.29:014][280]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BulePrints/BP_Crystal" FILE="../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/BulePrints/BP_Crystal.uasset" SILENT=true
+[2019.09.17-02.39.29:056][280]LogSavePackage: Moving '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Saved/BP_CrystalE0A257AD4D09BBFF4BCE25BF1D4B6560.tmp' to '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/BulePrints/BP_Crystal.uasset'
+[2019.09.17-02.39.32:427][448]LogEditorViewport: Clicking on Actor (LMB): BP_Crystal_C (BP_Crystal)
+[2019.09.17-02.39.35:478][626]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.17-02.39.53:651][985]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.17-02.39.59:364][183]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.17-02.40.02:349][262]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.17-02.40.06:145][388]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.17-02.40.06:226][392]BlueprintLog: New page: Compile BP_Crystal
+[2019.09.17-02.40.06:669][392]LogUObjectHash: Compacting FUObjectHashTables data took   7.21ms
+[2019.09.17-02.40.07:259][408]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BulePrints/BP_Crystal" FILE="../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/BulePrints/BP_Crystal.uasset" SILENT=true
+[2019.09.17-02.40.07:321][408]LogSavePackage: Moving '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Saved/BP_CrystalD7D7FE904782BF1FCC3FD28D9F377B87.tmp' to '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/BulePrints/BP_Crystal.uasset'
+[2019.09.17-02.41.06:736][736]LogHttp: Warning: 00000298647B8180: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF0A70DC3-44A7-345F-BD7C-839E435C27A2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=ebf3b58a4f9bf9dca1ba45a9f9cbf833%7C6cd29e672a584f96bacd2c98d8ebb62e%7C3eced006-bca4-4df5-8e1d-f2f6128de514&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.09.17-02.41.06:736][736]LogHttp: Warning: 00000298647B8180: request failed, libcurl error: 0 (No error)
+[2019.09.17-02.41.06:736][736]LogHttp: Warning: 00000298647B8180: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x298036b3f70 [can pipeline])
+[2019.09.17-02.41.06:736][736]LogHttp: Warning: 00000298647B8180: libcurl info message cache 1 (Re-using existing connection! (#9) with host datarouter.ol.epicgames.com)
+[2019.09.17-02.41.06:736][736]LogHttp: Warning: 00000298647B8180: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.87.139.142) port 443 (#9))
+[2019.09.17-02.41.06:736][736]LogHttp: Warning: 00000298647B8180: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.09.17-02.41.06:736][736]LogHttp: Warning: 00000298647B8180: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.09.17-02.41.06:736][736]LogHttp: Warning: 00000298647B8180: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.09.17-02.41.06:736][736]LogHttp: Warning: 00000298647B8180: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.09.17-02.41.06:736][736]LogHttp: Warning: 00000298647B8180: libcurl info message cache 7 (Closing connection 9)
+[2019.09.17-02.41.06:736][736]LogHttp: Warning: 00000298647B8180: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.09.17-02.41.06:736][736]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF0A70DC3-44A7-345F-BD7C-839E435C27A2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=ebf3b58a4f9bf9dca1ba45a9f9cbf833%7C6cd29e672a584f96bacd2c98d8ebb62e%7C3eced006-bca4-4df5-8e1d-f2f6128de514&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.17-02.42.05:951][912]LogUObjectHash: Compacting FUObjectHashTables data took   5.63ms
+[2019.09.17-02.42.06:311][912]LogSavePackage: Moving '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Saved/Level1_Auto22826A18A416D4DA4D901A19241AB13F8.tmp' to '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Saved/Autosaves/Game/Maps/Level1_Auto2.umap'
+[2019.09.17-02.42.06:316][912]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level1' took 0.407
+[2019.09.17-02.42.06:316][912]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.407
+[2019.09.17-02.49.37:975][255]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.17-02.49.41:455][432]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.17-02.49.54:558][472]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.17-02.50.02:116][934]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.17-02.50.02:201][943]LogSlate: Window 'Color Picker' being destroyed
+[2019.09.17-02.52.03:141][870]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.17-02.52.03:225][879]BlueprintLog: New page: Compile BP_Crystal
+[2019.09.17-02.52.03:560][879]LogUObjectHash: Compacting FUObjectHashTables data took   4.77ms
+[2019.09.17-02.52.04:030][902]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BulePrints/BP_Crystal" FILE="../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/BulePrints/BP_Crystal.uasset" SILENT=true
+[2019.09.17-02.52.04:077][902]LogSavePackage: Moving '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Saved/BP_CrystalFF2176BB45E465ED5338398243EF0B29.tmp' to '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/BulePrints/BP_Crystal.uasset'
+[2019.09.17-02.52.08:366][224]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.17-02.52.11:299][542]LogEditorViewport: Clicking on Actor (LMB): BP_Crystal_C (BP_Crystal)
+[2019.09.17-02.52.13:406][771]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.17-02.52.29:003][683]BlueprintLog: New page: Compile BP_Crystal
+[2019.09.17-02.52.29:350][683]LogUObjectHash: Compacting FUObjectHashTables data took   4.53ms
+[2019.09.17-02.52.29:536][693]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BulePrints/BP_Crystal" FILE="../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/BulePrints/BP_Crystal.uasset" SILENT=true
+[2019.09.17-02.52.29:573][693]LogSavePackage: Moving '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Saved/BP_CrystalCE260C6F4A9716F97638FA9EC15535F8.tmp' to '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/BulePrints/BP_Crystal.uasset'
+[2019.09.17-02.52.37:070][157]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.17-02.52.39:624][346]LogEditorViewport: Clicking on Actor (LMB): BP_Crystal_C (BP_Crystal)
+[2019.09.17-02.52.45:822][838]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.17-02.52.50:456][ 88]BlueprintLog: New page: Compile BP_Crystal
+[2019.09.17-02.52.50:801][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   5.52ms
+[2019.09.17-02.52.50:930][ 91]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BulePrints/BP_Crystal" FILE="../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/BulePrints/BP_Crystal.uasset" SILENT=true
+[2019.09.17-02.52.50:964][ 91]LogSavePackage: Moving '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Saved/BP_Crystal654C094E4140AF1B83C1308B6AA66364.tmp' to '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/BulePrints/BP_Crystal.uasset'
+[2019.09.17-02.52.58:057][432]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.17-02.53.03:786][911]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1" FILE="../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.09.17-02.53.03:852][911]LogUObjectHash: Compacting FUObjectHashTables data took   7.81ms
+[2019.09.17-02.53.04:224][911]LogSavePackage: Moving '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Saved/Level1ACA93DE24F093CE761A953BE86F47737.tmp' to '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/Maps/Level1.umap'
+[2019.09.17-02.53.04:257][911]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1_BuiltData" FILE="../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/Maps/Level1_BuiltData.uasset" SILENT=true
+[2019.09.17-02.53.04:376][911]LogSavePackage: Moving '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Saved/Level1_BuiltData502A6BD848CEB24C2B3414BC7BE5ED84.tmp' to '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/Maps/Level1_BuiltData.uasset'
+[2019.09.17-02.59.17:287][565]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.09.17-02.59.17:288][565]LogWindows: Windows GetLastError: 操作成功完成。 (0)
