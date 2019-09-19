@@ -1027,3 +1027,180 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.09.19-07.10.16:939][708]LogHttp: Warning: 0000017C1F691940: libcurl info message cache 7 (Closing connection 57)
 [2019.09.19-07.10.16:939][708]LogHttp: Warning: 0000017C1F691940: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
 [2019.09.19-07.10.16:939][708]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8E2D3ACB-43A4-B43D-CF13-48A38DC4F9DC%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=ebf3b58a4f9bf9dca1ba45a9f9cbf833%7C6cd29e672a584f96bacd2c98d8ebb62e%7C3eced006-bca4-4df5-8e1d-f2f6128de514&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.19-07.14.43:276][505]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2019.09.19-07.14.43:277][505]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level1' took 0.043
+[2019.09.19-07.14.43:279][505]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BulePrints/BP_Crystal] ([1] browsable assets)...
+[2019.09.19-07.14.43:333][505]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BulePrints/BP_Crystal.BP_Crystal]
+[2019.09.19-07.14.43:333][505]OBJ SavePackage: Finished generating thumbnails for package [/Game/BulePrints/BP_Crystal]
+[2019.09.19-07.14.43:423][505]LogSavePackage: Moving '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Saved/BP_Crystal_Auto456E528D44C53CD0E7BBB458CEE0DCD96.tmp' to '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Saved/Autosaves/Game/BulePrints/BP_Crystal_Auto4.uasset'
+[2019.09.19-07.14.43:426][505]LogFileHelpers: Auto-saving content packages took 0.149
+[2019.09.19-07.16.16:941][787]LogHttp: Warning: 0000017C192C8A40: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8E2D3ACB-43A4-B43D-CF13-48A38DC4F9DC%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=ebf3b58a4f9bf9dca1ba45a9f9cbf833%7C6cd29e672a584f96bacd2c98d8ebb62e%7C3eced006-bca4-4df5-8e1d-f2f6128de514&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.09.19-07.16.16:941][787]LogHttp: Warning: 0000017C192C8A40: request failed, libcurl error: 0 (No error)
+[2019.09.19-07.16.16:941][787]LogHttp: Warning: 0000017C192C8A40: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x17bf97dff70 [can pipeline])
+[2019.09.19-07.16.16:941][787]LogHttp: Warning: 0000017C192C8A40: libcurl info message cache 1 (Re-using existing connection! (#59) with host datarouter.ol.epicgames.com)
+[2019.09.19-07.16.16:941][787]LogHttp: Warning: 0000017C192C8A40: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.4.127.66) port 443 (#59))
+[2019.09.19-07.16.16:941][787]LogHttp: Warning: 0000017C192C8A40: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.09.19-07.16.16:941][787]LogHttp: Warning: 0000017C192C8A40: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.09.19-07.16.16:941][787]LogHttp: Warning: 0000017C192C8A40: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.09.19-07.16.16:941][787]LogHttp: Warning: 0000017C192C8A40: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.09.19-07.16.16:941][787]LogHttp: Warning: 0000017C192C8A40: libcurl info message cache 7 (Closing connection 59)
+[2019.09.19-07.16.16:941][787]LogHttp: Warning: 0000017C192C8A40: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.09.19-07.16.17:275][788]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8E2D3ACB-43A4-B43D-CF13-48A38DC4F9DC%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=ebf3b58a4f9bf9dca1ba45a9f9cbf833%7C6cd29e672a584f96bacd2c98d8ebb62e%7C3eced006-bca4-4df5-8e1d-f2f6128de514&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.19-07.22.17:066][867]LogHttp: Warning: 0000017C192CB9C0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8E2D3ACB-43A4-B43D-CF13-48A38DC4F9DC%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=ebf3b58a4f9bf9dca1ba45a9f9cbf833%7C6cd29e672a584f96bacd2c98d8ebb62e%7C3eced006-bca4-4df5-8e1d-f2f6128de514&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.09.19-07.22.17:066][867]LogHttp: Warning: 0000017C192CB9C0: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2019.09.19-07.22.17:066][867]LogHttp: Warning: 0000017C192CB9C0: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x17bf97dff70 [can pipeline])
+[2019.09.19-07.22.17:066][867]LogHttp: Warning: 0000017C192CB9C0: libcurl info message cache 1 (Re-using existing connection! (#61) with host datarouter.ol.epicgames.com)
+[2019.09.19-07.22.17:066][867]LogHttp: Warning: 0000017C192CB9C0: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (35.169.76.60) port 443 (#61))
+[2019.09.19-07.22.17:066][867]LogHttp: Warning: 0000017C192CB9C0: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.09.19-07.22.17:066][867]LogHttp: Warning: 0000017C192CB9C0: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2019.09.19-07.22.17:066][867]LogHttp: Warning: 0000017C192CB9C0: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.09.19-07.22.17:066][867]LogHttp: Warning: 0000017C192CB9C0: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.09.19-07.22.17:066][867]LogHttp: Warning: 0000017C192CB9C0: libcurl info message cache 7 (Closing connection 61)
+[2019.09.19-07.22.17:399][868]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8E2D3ACB-43A4-B43D-CF13-48A38DC4F9DC%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=ebf3b58a4f9bf9dca1ba45a9f9cbf833%7C6cd29e672a584f96bacd2c98d8ebb62e%7C3eced006-bca4-4df5-8e1d-f2f6128de514&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.19-07.28.16:852][946]LogHttp: Warning: 0000017C192CB9C0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8E2D3ACB-43A4-B43D-CF13-48A38DC4F9DC%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=ebf3b58a4f9bf9dca1ba45a9f9cbf833%7C6cd29e672a584f96bacd2c98d8ebb62e%7C3eced006-bca4-4df5-8e1d-f2f6128de514&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.09.19-07.28.16:852][946]LogHttp: Warning: 0000017C192CB9C0: request failed, libcurl error: 0 (No error)
+[2019.09.19-07.28.16:852][946]LogHttp: Warning: 0000017C192CB9C0: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x17bf97dff70 [can pipeline])
+[2019.09.19-07.28.16:852][946]LogHttp: Warning: 0000017C192CB9C0: libcurl info message cache 1 (Re-using existing connection! (#63) with host datarouter.ol.epicgames.com)
+[2019.09.19-07.28.16:853][946]LogHttp: Warning: 0000017C192CB9C0: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.54.203.96) port 443 (#63))
+[2019.09.19-07.28.16:853][946]LogHttp: Warning: 0000017C192CB9C0: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.09.19-07.28.16:853][946]LogHttp: Warning: 0000017C192CB9C0: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.09.19-07.28.16:853][946]LogHttp: Warning: 0000017C192CB9C0: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.09.19-07.28.16:853][946]LogHttp: Warning: 0000017C192CB9C0: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.09.19-07.28.16:853][946]LogHttp: Warning: 0000017C192CB9C0: libcurl info message cache 7 (Closing connection 63)
+[2019.09.19-07.28.16:853][946]LogHttp: Warning: 0000017C192CB9C0: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.09.19-07.28.16:853][946]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8E2D3ACB-43A4-B43D-CF13-48A38DC4F9DC%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=ebf3b58a4f9bf9dca1ba45a9f9cbf833%7C6cd29e672a584f96bacd2c98d8ebb62e%7C3eced006-bca4-4df5-8e1d-f2f6128de514&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.19-07.32.55:660][395]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BulePrints/BP_Crystal" FILE="../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/BulePrints/BP_Crystal.uasset" SILENT=true
+[2019.09.19-07.32.55:739][395]LogSavePackage: Moving '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Saved/BP_Crystal7BDFB9464EDCC9E82476798F4ED0AE4D.tmp' to '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/BulePrints/BP_Crystal.uasset'
+[2019.09.19-07.32.56:152][418]BlueprintLog: New page: Compile BP_Crystal
+[2019.09.19-07.32.56:529][418]LogUObjectHash: Compacting FUObjectHashTables data took   6.30ms
+[2019.09.19-07.32.57:391][464]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BulePrints/BP_Crystal" FILE="../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/BulePrints/BP_Crystal.uasset" SILENT=true
+[2019.09.19-07.32.57:467][464]LogSavePackage: Moving '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Saved/BP_CrystalFE3F890A4796BE105D32E2AF5CFF08D0.tmp' to '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/BulePrints/BP_Crystal.uasset'
+[2019.09.19-07.34.16:898][ 81]LogHttp: Warning: 0000017BB9A0ED40: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8E2D3ACB-43A4-B43D-CF13-48A38DC4F9DC%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=ebf3b58a4f9bf9dca1ba45a9f9cbf833%7C6cd29e672a584f96bacd2c98d8ebb62e%7C3eced006-bca4-4df5-8e1d-f2f6128de514&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.09.19-07.34.16:898][ 81]LogHttp: Warning: 0000017BB9A0ED40: request failed, libcurl error: 0 (No error)
+[2019.09.19-07.34.16:898][ 81]LogHttp: Warning: 0000017BB9A0ED40: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x17bf97dff70 [can pipeline])
+[2019.09.19-07.34.16:898][ 81]LogHttp: Warning: 0000017BB9A0ED40: libcurl info message cache 1 (Re-using existing connection! (#65) with host datarouter.ol.epicgames.com)
+[2019.09.19-07.34.16:898][ 81]LogHttp: Warning: 0000017BB9A0ED40: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.195.131.10) port 443 (#65))
+[2019.09.19-07.34.16:898][ 81]LogHttp: Warning: 0000017BB9A0ED40: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.09.19-07.34.16:898][ 81]LogHttp: Warning: 0000017BB9A0ED40: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.09.19-07.34.16:898][ 81]LogHttp: Warning: 0000017BB9A0ED40: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.09.19-07.34.16:898][ 81]LogHttp: Warning: 0000017BB9A0ED40: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.09.19-07.34.16:898][ 81]LogHttp: Warning: 0000017BB9A0ED40: libcurl info message cache 7 (Closing connection 65)
+[2019.09.19-07.34.16:898][ 81]LogHttp: Warning: 0000017BB9A0ED40: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.09.19-07.34.16:911][ 82]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8E2D3ACB-43A4-B43D-CF13-48A38DC4F9DC%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=ebf3b58a4f9bf9dca1ba45a9f9cbf833%7C6cd29e672a584f96bacd2c98d8ebb62e%7C3eced006-bca4-4df5-8e1d-f2f6128de514&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.19-07.35.40:631][596]LogUObjectHash: Compacting FUObjectHashTables data took   8.26ms
+[2019.09.19-07.35.41:066][596]LogSavePackage: Moving '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Saved/Level1_Auto5F9ECC78247C55087B5DEFAA2E3044774.tmp' to '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Saved/Autosaves/Game/Maps/Level1_Auto5.umap'
+[2019.09.19-07.35.41:071][596]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level1' took 0.510
+[2019.09.19-07.35.41:071][596]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.510
+[2019.09.19-07.35.41:073][596]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BulePrints/BP_Crystal] ([1] browsable assets)...
+[2019.09.19-07.35.41:109][596]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BulePrints/BP_Crystal.BP_Crystal]
+[2019.09.19-07.35.41:109][596]OBJ SavePackage: Finished generating thumbnails for package [/Game/BulePrints/BP_Crystal]
+[2019.09.19-07.35.41:187][596]LogSavePackage: Moving '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Saved/BP_Crystal_Auto5DDADABDD4B3A818F18A9B7BAA66B0856.tmp' to '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Saved/Autosaves/Game/BulePrints/BP_Crystal_Auto5.uasset'
+[2019.09.19-07.35.41:190][596]LogFileHelpers: Auto-saving content packages took 0.117
+[2019.09.19-07.37.07:362][262]BlueprintLog: New page: Compile BP_Crystal
+[2019.09.19-07.37.07:738][262]LogUObjectHash: Compacting FUObjectHashTables data took   5.45ms
+[2019.09.19-07.37.07:924][268]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BulePrints/BP_Crystal" FILE="../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/BulePrints/BP_Crystal.uasset" SILENT=true
+[2019.09.19-07.37.08:000][268]LogSavePackage: Moving '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Saved/BP_Crystal10B6B9CB401B65D86AE4F292D70FE6A1.tmp' to '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/BulePrints/BP_Crystal.uasset'
+[2019.09.19-07.37.08:945][323]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BulePrints/BP_Crystal" FILE="../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/BulePrints/BP_Crystal.uasset" SILENT=true
+[2019.09.19-07.37.09:019][323]LogSavePackage: Moving '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Saved/BP_Crystal6BA7797747A0EB98355B949C1AC39B29.tmp' to '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/BulePrints/BP_Crystal.uasset'
+[2019.09.19-07.37.28:533][425]Cmd: TRANSACTION UNDO
+[2019.09.19-07.37.28:533][425]LogEditorTransaction: Undo Move Node
+[2019.09.19-07.38.24:544][619]BlueprintLog: New page: Compile BP_Crystal
+[2019.09.19-07.38.24:914][619]LogUObjectHash: Compacting FUObjectHashTables data took   4.99ms
+[2019.09.19-07.38.25:094][624]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BulePrints/BP_Crystal" FILE="../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/BulePrints/BP_Crystal.uasset" SILENT=true
+[2019.09.19-07.38.25:165][624]LogSavePackage: Moving '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Saved/BP_Crystal7D6B541944751BA83508B88EB4E7918E.tmp' to '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/BulePrints/BP_Crystal.uasset'
+[2019.09.19-07.38.27:075][702]LogTemp: Repeating last play command: Simulate
+[2019.09.19-07.38.27:117][702]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.09.19-07.38.27:117][702]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.19-07.38.27:117][702]PIE: New page: SIE session: Level1 (2019年9月19日 下午11:38:27)
+[2019.09.19-07.38.27:117][702]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2019.09.19-07.38.27:142][702]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024482s)
+[2019.09.19-07.38.27:143][702]LogAIModule: Creating AISystem for world Level1
+[2019.09.19-07.38.27:144][702]LogPlayLevel: PIE: World Init took: (0.001378s)
+[2019.09.19-07.38.27:144][702]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.026037s)
+[2019.09.19-07.38.27:200][702]LogUObjectHash: Compacting FUObjectHashTables data took   7.88ms
+[2019.09.19-07.38.27:213][702]LogInit: XAudio2 using '扬声器 (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.19-07.38.27:240][702]LogInit: FAudioDevice initialized.
+[2019.09.19-07.38.27:248][702]LogLoad: Game class is 'BP_GameMode_C'
+[2019.09.19-07.38.27:253][702]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.09.19-15.38.27
+[2019.09.19-07.38.27:253][702]LogWorld: Bringing up level for play took: 0.004780
+[2019.09.19-07.38.27:253][702]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2019.09.19-07.38.27:256][702]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level1 -0.697
+[2019.09.19-07.38.27:258][702]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.09.19-07.38.45:465][380]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.09.19-07.38.45:466][380]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.19-07.38.45:466][380]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2019.09.19-07.38.45:466][380]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2019.09.19-07.38.45:584][380]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.19-07.38.45:585][380]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.09.19-07.38.45:660][380]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.19-07.38.45:669][380]LogUObjectHash: Compacting FUObjectHashTables data took   6.51ms
+[2019.09.19-07.38.45:700][381]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.09.19-07.38.56:992][444]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.19-07.41.47:059][353]BlueprintLog: New page: Compile BP_Crystal
+[2019.09.19-07.41.47:428][353]LogUObjectHash: Compacting FUObjectHashTables data took   8.03ms
+[2019.09.19-07.41.48:240][396]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BulePrints/BP_Crystal" FILE="../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/BulePrints/BP_Crystal.uasset" SILENT=true
+[2019.09.19-07.41.48:334][396]LogSavePackage: Moving '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Saved/BP_CrystalA67462954093AE46FF130B82031DFE42.tmp' to '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/BulePrints/BP_Crystal.uasset'
+[2019.09.19-07.41.49:170][443]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2019.09.19-07.42.01:621][114]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BulePrints/BP_Crystal.BP_Crystal
+[2019.09.19-07.42.33:641][997]BlueprintLog: New page: Compile BP_Crystal
+[2019.09.19-07.42.34:013][997]LogUObjectHash: Compacting FUObjectHashTables data took   6.28ms
+[2019.09.19-07.42.34:406][ 15]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BulePrints/BP_Crystal" FILE="../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/BulePrints/BP_Crystal.uasset" SILENT=true
+[2019.09.19-07.42.34:498][ 15]LogSavePackage: Moving '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Saved/BP_Crystal29FF5073422A10FC9508E0811C8F5338.tmp' to '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/BulePrints/BP_Crystal.uasset'
+[2019.09.19-07.43.21:536][811]BlueprintLog: New page: Compile BP_Crystal
+[2019.09.19-07.43.21:981][811]LogUObjectHash: Compacting FUObjectHashTables data took   6.04ms
+[2019.09.19-07.43.23:788][852]LogTemp: Repeating last play command: Simulate
+[2019.09.19-07.43.23:825][852]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.09.19-07.43.23:826][852]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.19-07.43.23:826][852]PIE: New page: SIE session: Level1 (2019年9月19日 下午11:43:23)
+[2019.09.19-07.43.23:826][852]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2019.09.19-07.43.23:862][852]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036165s)
+[2019.09.19-07.43.23:864][852]LogAIModule: Creating AISystem for world Level1
+[2019.09.19-07.43.23:864][852]LogPlayLevel: PIE: World Init took: (0.002144s)
+[2019.09.19-07.43.23:864][852]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.038539s)
+[2019.09.19-07.43.23:936][852]LogUObjectHash: Compacting FUObjectHashTables data took   8.17ms
+[2019.09.19-07.43.23:953][852]LogInit: XAudio2 using '扬声器 (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.19-07.43.23:986][852]LogInit: FAudioDevice initialized.
+[2019.09.19-07.43.24:000][852]LogLoad: Game class is 'BP_GameMode_C'
+[2019.09.19-07.43.24:006][852]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.09.19-15.43.24
+[2019.09.19-07.43.24:006][852]LogWorld: Bringing up level for play took: 0.004834
+[2019.09.19-07.43.24:007][852]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2019.09.19-07.43.24:010][852]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level1 0.058
+[2019.09.19-07.43.24:013][852]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.09.19-07.43.29:622][982]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.09.19-07.43.29:622][982]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.19-07.43.29:623][982]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2019.09.19-07.43.29:623][982]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2019.09.19-07.43.29:742][982]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.19-07.43.29:743][982]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.09.19-07.43.29:824][982]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.19-07.43.29:838][982]LogUObjectHash: Compacting FUObjectHashTables data took   9.33ms
+[2019.09.19-07.43.29:876][983]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2019.09.19-07.43.30:381][993]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.19-07.43.32:462][101]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BulePrints/BP_Crystal" FILE="../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/BulePrints/BP_Crystal.uasset" SILENT=true
+[2019.09.19-07.43.32:559][101]LogSavePackage: Moving '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Saved/BP_CrystalD02C69F842B393A5B6AEF898816316FF.tmp' to '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/BulePrints/BP_Crystal.uasset'
+[2019.09.19-07.43.44:865][823]Cmd: TRANSACTION UNDO
+[2019.09.19-07.43.44:865][823]LogEditorTransaction: Undo Create Reroute Node
+[2019.09.19-07.43.49:536][ 67]Cmd: TRANSACTION UNDO
+[2019.09.19-07.43.49:537][ 67]LogEditorTransaction: Undo Create Reroute Node
+[2019.09.19-07.44.03:472][891]BlueprintLog: New page: Compile BP_Crystal
+[2019.09.19-07.44.03:885][891]LogUObjectHash: Compacting FUObjectHashTables data took   6.10ms
+[2019.09.19-07.44.04:034][893]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BulePrints/BP_Crystal" FILE="../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/BulePrints/BP_Crystal.uasset" SILENT=true
+[2019.09.19-07.44.04:123][893]LogSavePackage: Moving '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Saved/BP_Crystal0DA076504AB0392074A9E89A190B5B24.tmp' to '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/BulePrints/BP_Crystal.uasset'
+[2019.09.19-07.44.05:362][962]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BulePrints/BP_Crystal" FILE="../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/BulePrints/BP_Crystal.uasset" SILENT=true
+[2019.09.19-07.44.05:458][962]LogSavePackage: Moving '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Saved/BP_Crystal175381A54220E7C8F357E78CFC2A3694.tmp' to '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/BulePrints/BP_Crystal.uasset'
+[2019.09.19-07.44.08:689][ 83]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1" FILE="../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.09.19-07.44.08:765][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   8.35ms
+[2019.09.19-07.44.09:212][ 83]LogSavePackage: Moving '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Saved/Level1AEC60CB4464DCDF744AFD19F01E2162E.tmp' to '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/Maps/Level1.umap'
+[2019.09.19-07.44.09:250][ 83]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1_BuiltData" FILE="../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/Maps/Level1_BuiltData.uasset" SILENT=true
+[2019.09.19-07.44.09:381][ 83]LogSavePackage: Moving '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Saved/Level1_BuiltDataA1BDAFAD487BF5357D7830A27CF5FD36.tmp' to '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/Maps/Level1_BuiltData.uasset'
+[2019.09.19-07.44.16:767][213]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.19-07.44.16:891][214]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1" FILE="../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.09.19-07.44.16:968][214]LogUObjectHash: Compacting FUObjectHashTables data took   5.54ms
+[2019.09.19-07.44.17:416][214]LogSavePackage: Moving '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Saved/Level10E4D36FE4613004767F86ABF1FA5A60F.tmp' to '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/Maps/Level1.umap'
+[2019.09.19-07.44.17:452][214]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1_BuiltData" FILE="../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/Maps/Level1_BuiltData.uasset" SILENT=true
+[2019.09.19-07.44.17:579][214]LogSavePackage: Moving '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Saved/Level1_BuiltData9356FDF04D5865269C2D27A45B12FD87.tmp' to '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/Maps/Level1_BuiltData.uasset'
+[2019.09.19-07.44.21:518][289]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1" FILE="../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.09.19-07.44.21:589][289]LogUObjectHash: Compacting FUObjectHashTables data took   6.14ms
+[2019.09.19-07.44.22:054][289]LogSavePackage: Moving '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Saved/Level139BC4CD14D5F9FDE4C23DABC2F19D37E.tmp' to '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/Maps/Level1.umap'
+[2019.09.19-07.44.22:090][289]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1_BuiltData" FILE="../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/Maps/Level1_BuiltData.uasset" SILENT=true
+[2019.09.19-07.44.22:217][289]LogSavePackage: Moving '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Saved/Level1_BuiltData51A9367F421D764F5D3904BBF3FF923B.tmp' to '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/Maps/Level1_BuiltData.uasset'
