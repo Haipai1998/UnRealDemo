@@ -653,3 +653,218 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.09.20-02.08.04:928][899]LogSavePackage: Moving '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Saved/Level102D5DD714B227E8CE1248B8D35605B0B.tmp' to '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/Maps/Level1.umap'
 [2019.09.20-02.08.04:995][899]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1_BuiltData" FILE="../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/Maps/Level1_BuiltData.uasset" SILENT=true
 [2019.09.20-02.08.05:215][899]LogSavePackage: Moving '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Saved/Level1_BuiltDataA89DD38A4A4B3772065DF2B7C82F6F18.tmp' to '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/Maps/Level1_BuiltData.uasset'
+[2019.09.20-02.13.46:387][938]LogHttp: Warning: 0000020CEEFDFC40: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2F00C47C-4790-BB1B-8B8D-B6B14FB4AFCB%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=ebf3b58a4f9bf9dca1ba45a9f9cbf833%7C6cd29e672a584f96bacd2c98d8ebb62e%7C3eced006-bca4-4df5-8e1d-f2f6128de514&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.09.20-02.13.46:387][938]LogHttp: Warning: 0000020CEEFDFC40: request failed, libcurl error: 0 (No error)
+[2019.09.20-02.13.46:387][938]LogHttp: Warning: 0000020CEEFDFC40: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x20c8ce9bf70 [can pipeline])
+[2019.09.20-02.13.46:387][938]LogHttp: Warning: 0000020CEEFDFC40: libcurl info message cache 1 (Re-using existing connection! (#8) with host datarouter.ol.epicgames.com)
+[2019.09.20-02.13.46:387][938]LogHttp: Warning: 0000020CEEFDFC40: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.4.51.163) port 443 (#8))
+[2019.09.20-02.13.46:387][938]LogHttp: Warning: 0000020CEEFDFC40: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.09.20-02.13.46:387][938]LogHttp: Warning: 0000020CEEFDFC40: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.09.20-02.13.46:387][938]LogHttp: Warning: 0000020CEEFDFC40: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.09.20-02.13.46:387][938]LogHttp: Warning: 0000020CEEFDFC40: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.09.20-02.13.46:387][938]LogHttp: Warning: 0000020CEEFDFC40: libcurl info message cache 7 (Closing connection 8)
+[2019.09.20-02.13.46:387][938]LogHttp: Warning: 0000020CEEFDFC40: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.09.20-02.13.46:387][938]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2F00C47C-4790-BB1B-8B8D-B6B14FB4AFCB%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=ebf3b58a4f9bf9dca1ba45a9f9cbf833%7C6cd29e672a584f96bacd2c98d8ebb62e%7C3eced006-bca4-4df5-8e1d-f2f6128de514&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.20-02.19.46:399][ 17]LogHttp: Warning: 0000020CEEFDFC40: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2F00C47C-4790-BB1B-8B8D-B6B14FB4AFCB%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=ebf3b58a4f9bf9dca1ba45a9f9cbf833%7C6cd29e672a584f96bacd2c98d8ebb62e%7C3eced006-bca4-4df5-8e1d-f2f6128de514&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.09.20-02.19.46:399][ 17]LogHttp: Warning: 0000020CEEFDFC40: request failed, libcurl error: 0 (No error)
+[2019.09.20-02.19.46:399][ 17]LogHttp: Warning: 0000020CEEFDFC40: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x20c8ce9bf70 [can pipeline])
+[2019.09.20-02.19.46:399][ 17]LogHttp: Warning: 0000020CEEFDFC40: libcurl info message cache 1 (Re-using existing connection! (#10) with host datarouter.ol.epicgames.com)
+[2019.09.20-02.19.46:399][ 17]LogHttp: Warning: 0000020CEEFDFC40: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.207.206.211) port 443 (#10))
+[2019.09.20-02.19.46:399][ 17]LogHttp: Warning: 0000020CEEFDFC40: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.09.20-02.19.46:399][ 17]LogHttp: Warning: 0000020CEEFDFC40: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.09.20-02.19.46:399][ 17]LogHttp: Warning: 0000020CEEFDFC40: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.09.20-02.19.46:399][ 17]LogHttp: Warning: 0000020CEEFDFC40: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.09.20-02.19.46:399][ 17]LogHttp: Warning: 0000020CEEFDFC40: libcurl info message cache 7 (Closing connection 10)
+[2019.09.20-02.19.46:399][ 17]LogHttp: Warning: 0000020CEEFDFC40: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.09.20-02.19.46:733][ 18]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2F00C47C-4790-BB1B-8B8D-B6B14FB4AFCB%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=ebf3b58a4f9bf9dca1ba45a9f9cbf833%7C6cd29e672a584f96bacd2c98d8ebb62e%7C3eced006-bca4-4df5-8e1d-f2f6128de514&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.20-02.20.25:344][258]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.20-02.20.33:342][357]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.20-02.20.33:777][361]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BulePrints/BP_Cannon.BP_Cannon
+[2019.09.20-02.20.39:559][580]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.20-02.20.45:373][735]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.20-02.20.47:231][798]BlueprintLog: New page: Compile BP_Cannon
+[2019.09.20-02.20.47:661][798]LogUObjectHash: Compacting FUObjectHashTables data took   7.67ms
+[2019.09.20-02.20.48:136][811]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BulePrints/BP_Cannon" FILE="../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/BulePrints/BP_Cannon.uasset" SILENT=true
+[2019.09.20-02.20.48:295][811]LogSavePackage: Moving '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Saved/BP_Cannon8F51E80A43DB9D487238D1BD67E11C1D.tmp' to '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/BulePrints/BP_Cannon.uasset'
+[2019.09.20-02.20.50:329][854]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1" FILE="../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.09.20-02.20.50:390][854]LogUObjectHash: Compacting FUObjectHashTables data took   5.89ms
+[2019.09.20-02.20.50:942][854]LogSavePackage: Moving '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Saved/Level1B99D4D3D42ED1C99D2FA189BD513FFEC.tmp' to '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/Maps/Level1.umap'
+[2019.09.20-02.20.50:998][854]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1_BuiltData" FILE="../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/Maps/Level1_BuiltData.uasset" SILENT=true
+[2019.09.20-02.20.51:198][854]LogSavePackage: Moving '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Saved/Level1_BuiltData1D8D99E949E80D894110C5A1BE1E78FC.tmp' to '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/Maps/Level1_BuiltData.uasset'
+[2019.09.20-02.21.07:188][181]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.20-02.21.07:224][181]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1" FILE="../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.09.20-02.21.07:295][181]LogUObjectHash: Compacting FUObjectHashTables data took   6.43ms
+[2019.09.20-02.21.07:893][181]LogSavePackage: Moving '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Saved/Level1C229926A4D43AF65DDD595A7E3D4749F.tmp' to '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/Maps/Level1.umap'
+[2019.09.20-02.21.07:967][181]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1_BuiltData" FILE="../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/Maps/Level1_BuiltData.uasset" SILENT=true
+[2019.09.20-02.21.08:189][181]LogSavePackage: Moving '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Saved/Level1_BuiltData0F6279E143194CE08D8921A37F176F75.tmp' to '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/Maps/Level1_BuiltData.uasset'
+[2019.09.20-02.21.14:361][403]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.20-02.21.29:594][ 72]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.20-02.21.33:518][265]LogSlate: Window 'Color Picker' being destroyed
+[2019.09.20-02.21.41:494][570]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.20-02.21.41:556][573]BlueprintLog: New page: Compile BP_Cannon
+[2019.09.20-02.21.42:031][573]LogUObjectHash: Compacting FUObjectHashTables data took   8.11ms
+[2019.09.20-02.21.42:321][580]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BulePrints/BP_Cannon" FILE="../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/BulePrints/BP_Cannon.uasset" SILENT=true
+[2019.09.20-02.21.42:416][580]LogSavePackage: Moving '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Saved/BP_Cannon072909DA4C02986821BA08937F0439F5.tmp' to '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/BulePrints/BP_Cannon.uasset'
+[2019.09.20-02.21.43:123][606]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.20-02.21.48:894][748]LogUObjectHash: Compacting FUObjectHashTables data took   6.40ms
+[2019.09.20-02.21.48:927][748]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1" FILE="../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.09.20-02.21.48:998][748]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2019.09.20-02.21.49:596][748]LogSavePackage: Moving '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Saved/Level15A4873674E6AB01992DC49B1FB65204F.tmp' to '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/Maps/Level1.umap'
+[2019.09.20-02.21.49:663][748]LogFileHelpers: Saving map 'Level1' took 0.738
+[2019.09.20-02.21.55:985][927]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.20-02.31.48:986][779]LogUObjectHash: Compacting FUObjectHashTables data took   5.72ms
+[2019.09.20-02.31.49:367][779]LogSavePackage: Moving '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Saved/Level1_Auto21A4E7BDE4EC58DC87D07D1AA94569BCD.tmp' to '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Saved/Autosaves/Game/Maps/Level1_Auto2.umap'
+[2019.09.20-02.31.49:373][779]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level1' took 0.431
+[2019.09.20-02.31.49:373][779]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.431
+[2019.09.20-02.31.49:376][779]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BulePrints/BP_Cannon] ([1] browsable assets)...
+[2019.09.20-02.31.49:420][779]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BulePrints/BP_Cannon.BP_Cannon]
+[2019.09.20-02.31.49:421][779]OBJ SavePackage: Finished generating thumbnails for package [/Game/BulePrints/BP_Cannon]
+[2019.09.20-02.31.49:495][779]LogSavePackage: Moving '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Saved/BP_Cannon_Auto2BB158B454223AD3CA371148B97FB4821.tmp' to '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Saved/Autosaves/Game/BulePrints/BP_Cannon_Auto2.uasset'
+[2019.09.20-02.31.49:498][779]LogFileHelpers: Auto-saving content packages took 0.123
+[2019.09.20-02.36.46:021][670]LogHttp: Warning: 0000020CCE8E9080: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2F00C47C-4790-BB1B-8B8D-B6B14FB4AFCB%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=ebf3b58a4f9bf9dca1ba45a9f9cbf833%7C6cd29e672a584f96bacd2c98d8ebb62e%7C3eced006-bca4-4df5-8e1d-f2f6128de514&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.09.20-02.36.46:022][670]LogHttp: Warning: 0000020CCE8E9080: request failed, libcurl error: 0 (No error)
+[2019.09.20-02.36.46:022][670]LogHttp: Warning: 0000020CCE8E9080: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x20c8ce9bf70 [can pipeline])
+[2019.09.20-02.36.46:022][670]LogHttp: Warning: 0000020CCE8E9080: libcurl info message cache 1 (Re-using existing connection! (#17) with host datarouter.ol.epicgames.com)
+[2019.09.20-02.36.46:022][670]LogHttp: Warning: 0000020CCE8E9080: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.81.81.192) port 443 (#17))
+[2019.09.20-02.36.46:022][670]LogHttp: Warning: 0000020CCE8E9080: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.09.20-02.36.46:022][670]LogHttp: Warning: 0000020CCE8E9080: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.09.20-02.36.46:022][670]LogHttp: Warning: 0000020CCE8E9080: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.09.20-02.36.46:022][670]LogHttp: Warning: 0000020CCE8E9080: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.09.20-02.36.46:022][670]LogHttp: Warning: 0000020CCE8E9080: libcurl info message cache 7 (Closing connection 17)
+[2019.09.20-02.36.46:022][670]LogHttp: Warning: 0000020CCE8E9080: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.09.20-02.36.46:022][670]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2F00C47C-4790-BB1B-8B8D-B6B14FB4AFCB%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=ebf3b58a4f9bf9dca1ba45a9f9cbf833%7C6cd29e672a584f96bacd2c98d8ebb62e%7C3eced006-bca4-4df5-8e1d-f2f6128de514&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.20-02.44.45:810][109]LogHttp: Warning: 0000020CCE8E9080: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2F00C47C-4790-BB1B-8B8D-B6B14FB4AFCB%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=ebf3b58a4f9bf9dca1ba45a9f9cbf833%7C6cd29e672a584f96bacd2c98d8ebb62e%7C3eced006-bca4-4df5-8e1d-f2f6128de514&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.09.20-02.44.45:810][109]LogHttp: Warning: 0000020CCE8E9080: request failed, libcurl error: 0 (No error)
+[2019.09.20-02.44.45:810][109]LogHttp: Warning: 0000020CCE8E9080: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x20c8ce9bf70 [can pipeline])
+[2019.09.20-02.44.45:810][109]LogHttp: Warning: 0000020CCE8E9080: libcurl info message cache 1 (Re-using existing connection! (#20) with host datarouter.ol.epicgames.com)
+[2019.09.20-02.44.45:810][109]LogHttp: Warning: 0000020CCE8E9080: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.195.0.70) port 443 (#20))
+[2019.09.20-02.44.45:811][109]LogHttp: Warning: 0000020CCE8E9080: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.09.20-02.44.45:811][109]LogHttp: Warning: 0000020CCE8E9080: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.09.20-02.44.45:811][109]LogHttp: Warning: 0000020CCE8E9080: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.09.20-02.44.45:811][109]LogHttp: Warning: 0000020CCE8E9080: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.09.20-02.44.45:811][109]LogHttp: Warning: 0000020CCE8E9080: libcurl info message cache 7 (Closing connection 20)
+[2019.09.20-02.44.45:811][109]LogHttp: Warning: 0000020CCE8E9080: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.09.20-02.44.46:151][110]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2F00C47C-4790-BB1B-8B8D-B6B14FB4AFCB%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=ebf3b58a4f9bf9dca1ba45a9f9cbf833%7C6cd29e672a584f96bacd2c98d8ebb62e%7C3eced006-bca4-4df5-8e1d-f2f6128de514&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.20-02.50.46:027][189]LogHttp: Warning: 0000020CCE8E9080: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2F00C47C-4790-BB1B-8B8D-B6B14FB4AFCB%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=ebf3b58a4f9bf9dca1ba45a9f9cbf833%7C6cd29e672a584f96bacd2c98d8ebb62e%7C3eced006-bca4-4df5-8e1d-f2f6128de514&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.09.20-02.50.46:027][189]LogHttp: Warning: 0000020CCE8E9080: request failed, libcurl error: 0 (No error)
+[2019.09.20-02.50.46:027][189]LogHttp: Warning: 0000020CCE8E9080: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x20c8ce9bf70 [can pipeline])
+[2019.09.20-02.50.46:027][189]LogHttp: Warning: 0000020CCE8E9080: libcurl info message cache 1 (Re-using existing connection! (#22) with host datarouter.ol.epicgames.com)
+[2019.09.20-02.50.46:027][189]LogHttp: Warning: 0000020CCE8E9080: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (23.20.51.18) port 443 (#22))
+[2019.09.20-02.50.46:027][189]LogHttp: Warning: 0000020CCE8E9080: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.09.20-02.50.46:027][189]LogHttp: Warning: 0000020CCE8E9080: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.09.20-02.50.46:027][189]LogHttp: Warning: 0000020CCE8E9080: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.09.20-02.50.46:027][189]LogHttp: Warning: 0000020CCE8E9080: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.09.20-02.50.46:027][189]LogHttp: Warning: 0000020CCE8E9080: libcurl info message cache 7 (Closing connection 22)
+[2019.09.20-02.50.46:027][189]LogHttp: Warning: 0000020CCE8E9080: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.09.20-02.50.46:360][190]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2F00C47C-4790-BB1B-8B8D-B6B14FB4AFCB%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=ebf3b58a4f9bf9dca1ba45a9f9cbf833%7C6cd29e672a584f96bacd2c98d8ebb62e%7C3eced006-bca4-4df5-8e1d-f2f6128de514&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.20-02.56.45:860][268]LogHttp: Warning: 0000020CCE8E9080: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2F00C47C-4790-BB1B-8B8D-B6B14FB4AFCB%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=ebf3b58a4f9bf9dca1ba45a9f9cbf833%7C6cd29e672a584f96bacd2c98d8ebb62e%7C3eced006-bca4-4df5-8e1d-f2f6128de514&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.09.20-02.56.45:861][268]LogHttp: Warning: 0000020CCE8E9080: request failed, libcurl error: 0 (No error)
+[2019.09.20-02.56.45:861][268]LogHttp: Warning: 0000020CCE8E9080: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x20c8ce9bf70 [can pipeline])
+[2019.09.20-02.56.45:861][268]LogHttp: Warning: 0000020CCE8E9080: libcurl info message cache 1 (Re-using existing connection! (#24) with host datarouter.ol.epicgames.com)
+[2019.09.20-02.56.45:861][268]LogHttp: Warning: 0000020CCE8E9080: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.4.51.163) port 443 (#24))
+[2019.09.20-02.56.45:861][268]LogHttp: Warning: 0000020CCE8E9080: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.09.20-02.56.45:861][268]LogHttp: Warning: 0000020CCE8E9080: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.09.20-02.56.45:861][268]LogHttp: Warning: 0000020CCE8E9080: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.09.20-02.56.45:861][268]LogHttp: Warning: 0000020CCE8E9080: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.09.20-02.56.45:861][268]LogHttp: Warning: 0000020CCE8E9080: libcurl info message cache 7 (Closing connection 24)
+[2019.09.20-02.56.45:861][268]LogHttp: Warning: 0000020CCE8E9080: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.09.20-02.56.45:861][268]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2F00C47C-4790-BB1B-8B8D-B6B14FB4AFCB%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=ebf3b58a4f9bf9dca1ba45a9f9cbf833%7C6cd29e672a584f96bacd2c98d8ebb62e%7C3eced006-bca4-4df5-8e1d-f2f6128de514&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.20-03.05.17:615][885]LogUObjectHash: Compacting FUObjectHashTables data took  16.18ms
+[2019.09.20-03.05.17:615][885]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level1' took 0.147
+[2019.09.20-03.05.17:619][885]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BulePrints/BP_Cannon] ([1] browsable assets)...
+[2019.09.20-03.05.17:667][885]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BulePrints/BP_Cannon.BP_Cannon]
+[2019.09.20-03.05.17:668][885]OBJ SavePackage: Finished generating thumbnails for package [/Game/BulePrints/BP_Cannon]
+[2019.09.20-03.05.17:793][885]LogSavePackage: Moving '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Saved/BP_Cannon_Auto315C3669142B815627943549CDF0A9D7D.tmp' to '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Saved/Autosaves/Game/BulePrints/BP_Cannon_Auto3.uasset'
+[2019.09.20-03.05.17:796][885]LogFileHelpers: Auto-saving content packages took 0.178
+[2019.09.20-03.05.45:983][358]LogHttp: Warning: 0000020CCE8EB600: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2F00C47C-4790-BB1B-8B8D-B6B14FB4AFCB%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=ebf3b58a4f9bf9dca1ba45a9f9cbf833%7C6cd29e672a584f96bacd2c98d8ebb62e%7C3eced006-bca4-4df5-8e1d-f2f6128de514&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.09.20-03.05.45:983][358]LogHttp: Warning: 0000020CCE8EB600: request failed, libcurl error: 0 (No error)
+[2019.09.20-03.05.45:983][358]LogHttp: Warning: 0000020CCE8EB600: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x20c8ce9bf70 [can pipeline])
+[2019.09.20-03.05.45:983][358]LogHttp: Warning: 0000020CCE8EB600: libcurl info message cache 1 (Re-using existing connection! (#27) with host datarouter.ol.epicgames.com)
+[2019.09.20-03.05.45:983][358]LogHttp: Warning: 0000020CCE8EB600: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.174.205.197) port 443 (#27))
+[2019.09.20-03.05.45:983][358]LogHttp: Warning: 0000020CCE8EB600: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.09.20-03.05.45:983][358]LogHttp: Warning: 0000020CCE8EB600: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.09.20-03.05.45:983][358]LogHttp: Warning: 0000020CCE8EB600: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.09.20-03.05.45:983][358]LogHttp: Warning: 0000020CCE8EB600: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.09.20-03.05.45:983][358]LogHttp: Warning: 0000020CCE8EB600: libcurl info message cache 7 (Closing connection 27)
+[2019.09.20-03.05.45:983][358]LogHttp: Warning: 0000020CCE8EB600: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.09.20-03.05.45:983][358]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2F00C47C-4790-BB1B-8B8D-B6B14FB4AFCB%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=ebf3b58a4f9bf9dca1ba45a9f9cbf833%7C6cd29e672a584f96bacd2c98d8ebb62e%7C3eced006-bca4-4df5-8e1d-f2f6128de514&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.20-03.06.35:687][116]BlueprintLog: New page: Compile BP_Cannon
+[2019.09.20-03.06.36:036][116]LogUObjectHash: Compacting FUObjectHashTables data took   4.59ms
+[2019.09.20-03.06.36:432][135]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BulePrints/BP_Cannon" FILE="../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/BulePrints/BP_Cannon.uasset" SILENT=true
+[2019.09.20-03.06.36:518][135]LogSavePackage: Moving '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Saved/BP_Cannon4494A4004777EBBF202ED784F0FD1EBD.tmp' to '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/BulePrints/BP_Cannon.uasset'
+[2019.09.20-03.06.41:395][316]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.20-03.06.41:473][320]LogTemp: Repeating last play command: Simulate
+[2019.09.20-03.06.41:505][320]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.09.20-03.06.41:507][320]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.20-03.06.41:523][320]PIE: New page: SIE session: Level1 (2019年9月20日 下午7:06:41)
+[2019.09.20-03.06.41:536][320]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2019.09.20-03.06.41:543][320]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2019.09.20-03.06.41:600][320]LogPlayLevel: PIE: StaticDuplicateObject took: (0.055981s)
+[2019.09.20-03.06.41:606][320]LogAIModule: Creating AISystem for world Level1
+[2019.09.20-03.06.41:613][320]LogPlayLevel: PIE: World Init took: (0.013556s)
+[2019.09.20-03.06.41:614][320]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.070984s)
+[2019.09.20-03.06.41:660][320]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2019.09.20-03.06.41:684][320]LogInit: XAudio2 using '扬声器 (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.20-03.06.41:719][320]LogInit: FAudioDevice initialized.
+[2019.09.20-03.06.41:752][320]LogLoad: Game class is 'BP_GameMode_C'
+[2019.09.20-03.06.41:773][320]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.09.20-11.06.41
+[2019.09.20-03.06.41:780][320]LogWorld: Bringing up level for play took: 0.015726
+[2019.09.20-03.06.41:784][320]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2019.09.20-03.06.41:820][320]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0039 seconds. Added 20 classes and 0 folders.
+[2019.09.20-03.06.41:828][320]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level1 -0.381
+[2019.09.20-03.06.41:861][320]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.09.20-03.06.43:991][378]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.09.20-03.06.43:993][378]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.20-03.06.43:993][378]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2019.09.20-03.06.43:996][378]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2019.09.20-03.06.44:027][378]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.20-03.06.44:027][378]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.09.20-03.06.44:085][378]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.20-03.06.44:180][378]LogUObjectHash: Compacting FUObjectHashTables data took   4.97ms
+[2019.09.20-03.06.44:203][379]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.09.20-03.07.50:972][852]BlueprintLog: New page: Compile BP_Cannon
+[2019.09.20-03.07.51:306][852]LogUObjectHash: Compacting FUObjectHashTables data took   5.72ms
+[2019.09.20-03.08.16:277][345]BlueprintLog: New page: Compile BP_Cannon
+[2019.09.20-03.08.16:626][345]LogUObjectHash: Compacting FUObjectHashTables data took   7.26ms
+[2019.09.20-03.08.19:053][393]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1" FILE="../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.09.20-03.08.19:115][393]LogUObjectHash: Compacting FUObjectHashTables data took   6.62ms
+[2019.09.20-03.08.19:542][393]LogSavePackage: Moving '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Saved/Level14FD516644674EA40950DAAA614B99AD5.tmp' to '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/Maps/Level1.umap'
+[2019.09.20-03.08.19:577][393]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1_BuiltData" FILE="../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/Maps/Level1_BuiltData.uasset" SILENT=true
+[2019.09.20-03.08.19:725][393]LogSavePackage: Moving '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Saved/Level1_BuiltData03F6808B489AC7ABB90F138818575801.tmp' to '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/Maps/Level1_BuiltData.uasset'
+[2019.09.20-03.08.20:226][406]LogTemp: Repeating last play command: Simulate
+[2019.09.20-03.08.20:258][406]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.09.20-03.08.20:258][406]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.20-03.08.20:258][406]PIE: New page: SIE session: Level1 (2019年9月20日 下午7:08:20)
+[2019.09.20-03.08.20:258][406]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2019.09.20-03.08.20:296][406]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037380s)
+[2019.09.20-03.08.20:298][406]LogAIModule: Creating AISystem for world Level1
+[2019.09.20-03.08.20:298][406]LogPlayLevel: PIE: World Init took: (0.002694s)
+[2019.09.20-03.08.20:298][406]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.040390s)
+[2019.09.20-03.08.20:372][406]LogUObjectHash: Compacting FUObjectHashTables data took   9.06ms
+[2019.09.20-03.08.20:389][406]LogInit: XAudio2 using '扬声器 (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.20-03.08.20:425][406]LogInit: FAudioDevice initialized.
+[2019.09.20-03.08.20:440][406]LogLoad: Game class is 'BP_GameMode_C'
+[2019.09.20-03.08.20:443][406]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.09.20-11.08.20
+[2019.09.20-03.08.20:444][406]LogWorld: Bringing up level for play took: 0.003368
+[2019.09.20-03.08.20:444][406]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2019.09.20-03.08.20:451][406]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level1 0.242
+[2019.09.20-03.08.20:453][406]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.09.20-03.08.26:897][513]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.09.20-03.08.26:897][513]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.20-03.08.26:897][513]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2019.09.20-03.08.26:900][513]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2019.09.20-03.08.27:091][513]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.20-03.08.27:092][513]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.09.20-03.08.27:169][513]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.20-03.08.27:178][513]LogUObjectHash: Compacting FUObjectHashTables data took   6.04ms
+[2019.09.20-03.08.27:209][514]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.09.20-03.08.29:354][536]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.20-03.08.30:193][568]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BulePrints/BP_Cannon" FILE="../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/BulePrints/BP_Cannon.uasset" SILENT=true
+[2019.09.20-03.08.30:294][568]LogSavePackage: Moving '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Saved/BP_CannonF2AF3CAA4A7A1A1A3B061DAA8C975910.tmp' to '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/BulePrints/BP_Cannon.uasset'
+[2019.09.20-03.08.30:886][602]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2019.09.20-03.08.32:891][616]LogUObjectHash: Compacting FUObjectHashTables data took   7.83ms
+[2019.09.20-03.08.39:118][682]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1" FILE="../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.09.20-03.08.39:232][682]LogUObjectHash: Compacting FUObjectHashTables data took   4.45ms
+[2019.09.20-03.08.39:610][682]LogSavePackage: Moving '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Saved/Level1736AB6464D9162D8917BB3A313942C82.tmp' to '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/Maps/Level1.umap'
+[2019.09.20-03.08.39:643][682]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1_BuiltData" FILE="../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/Maps/Level1_BuiltData.uasset" SILENT=true
+[2019.09.20-03.08.39:772][682]LogSavePackage: Moving '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Saved/Level1_BuiltDataAECF8E9B4A3729A4EAEFEDA70C833BAE.tmp' to '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/Maps/Level1_BuiltData.uasset'
