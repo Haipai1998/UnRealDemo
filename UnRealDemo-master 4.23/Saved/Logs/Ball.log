@@ -655,3 +655,252 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.06-06.44.25:888][269]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
 [2019.10.06-06.44.26:281][269]LogSavePackage: Moving '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Saved/Level1A3A606C041789D962A08028C26B4D35F.tmp' to '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/Maps/Level1.umap'
 [2019.10.06-06.44.26:313][269]LogFileHelpers: Saving map 'Level1' took 0.467
+[2019.10.06-06.54.33:236][843]LogUObjectHash: Compacting FUObjectHashTables data took  10.84ms
+[2019.10.06-06.54.33:237][843]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level1' took 0.070
+[2019.10.06-06.54.33:240][843]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BulePrints/BP_Cannon] ([1] browsable assets)...
+[2019.10.06-06.54.33:240][843]OBJ SavePackage: Finished generating thumbnails for package [/Game/BulePrints/BP_Cannon]
+[2019.10.06-06.54.33:362][843]LogSavePackage: Moving '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Saved/BP_Cannon_Auto3E6D516E946294F3523E50AAFB63185FC.tmp' to '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Saved/Autosaves/Game/BulePrints/BP_Cannon_Auto3.uasset'
+[2019.10.06-06.54.33:367][843]LogFileHelpers: Auto-saving content packages took 0.128
+[2019.10.06-06.55.29:709][463]BlueprintLog: New page: Compile BP_Cannon
+[2019.10.06-06.55.30:072][463]LogUObjectHash: Compacting FUObjectHashTables data took   6.34ms
+[2019.10.06-06.55.30:205][465]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BulePrints/BP_Cannon" FILE="../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/BulePrints/BP_Cannon.uasset" SILENT=true
+[2019.10.06-06.55.30:298][465]LogSavePackage: Moving '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Saved/BP_CannonDE1ECE2446360D2A4E93258CB31C4B59.tmp' to '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/BulePrints/BP_Cannon.uasset'
+[2019.10.06-06.55.41:606][102]Cmd: TRANSACTION UNDO
+[2019.10.06-06.55.41:606][102]LogEditorTransaction: Undo Create Pin Link
+[2019.10.06-06.56.02:724][356]BlueprintLog: New page: Compile BP_Cannon
+[2019.10.06-06.56.03:148][356]LogUObjectHash: Compacting FUObjectHashTables data took   7.24ms
+[2019.10.06-06.56.03:321][361]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BulePrints/BP_Cannon" FILE="../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/BulePrints/BP_Cannon.uasset" SILENT=true
+[2019.10.06-06.56.03:433][361]LogSavePackage: Moving '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Saved/BP_CannonE17D310742FA60CD58C21BBE8988FF60.tmp' to '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/BulePrints/BP_Cannon.uasset'
+[2019.10.06-06.56.05:916][463]LogTemp: Repeating last play command: Simulate
+[2019.10.06-06.56.05:950][463]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.10.06-06.56.05:950][463]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.06-06.56.05:951][463]PIE: New page: SIE session: Level1 (2019年10月6日 下午10:56:05)
+[2019.10.06-06.56.05:951][463]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2019.10.06-06.56.05:991][463]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040152s)
+[2019.10.06-06.56.05:993][463]LogAIModule: Creating AISystem for world Level1
+[2019.10.06-06.56.05:993][463]LogPlayLevel: PIE: World Init took: (0.001977s)
+[2019.10.06-06.56.05:994][463]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.042499s)
+[2019.10.06-06.56.06:057][463]LogUObjectHash: Compacting FUObjectHashTables data took   9.11ms
+[2019.10.06-06.56.06:072][463]LogInit: XAudio2 using '扬声器 (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.06-06.56.06:103][463]LogInit: FAudioDevice initialized.
+[2019.10.06-06.56.06:123][463]LogLoad: Game class is 'BP_GameMode_C'
+[2019.10.06-06.56.06:128][463]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.10.06-14.56.06
+[2019.10.06-06.56.06:129][463]LogWorld: Bringing up level for play took: 0.004568
+[2019.10.06-06.56.06:130][463]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2019.10.06-06.56.06:133][463]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level1 0.845
+[2019.10.06-06.56.06:137][463]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.10.06-06.56.14:253][769]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.10.06-06.56.14:253][769]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.06-06.56.14:253][769]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2019.10.06-06.56.14:256][769]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2019.10.06-06.56.14:302][769]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.06-06.56.14:302][769]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.10.06-06.56.14:379][769]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.06-06.56.14:390][769]LogUObjectHash: Compacting FUObjectHashTables data took   8.66ms
+[2019.10.06-06.56.14:430][770]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.10.06-06.57.16:249][146]LogRenderer: Reallocating scene render targets to support 920x540 Format 10 NumSamples 1 (Frame:1).
+[2019.10.06-06.57.20:644][310]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.06-06.58.03:491][323]LogEditorTransaction: Undo Modify Component(s)
+[2019.10.06-06.58.05:383][352]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.06-06.58.38:483][ 39]BlueprintLog: New page: Compile BP_Cannon
+[2019.10.06-06.58.38:888][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   5.92ms
+[2019.10.06-07.00.06:933][461]BlueprintLog: New page: Compile BP_Cannon
+[2019.10.06-07.00.07:400][461]LogUObjectHash: Compacting FUObjectHashTables data took   7.43ms
+[2019.10.06-07.01.14:601][626]BlueprintLog: New page: Compile BP_Cannon
+[2019.10.06-07.01.15:045][626]LogUObjectHash: Compacting FUObjectHashTables data took   8.61ms
+[2019.10.06-07.01.16:952][705]BlueprintLog: New page: Compile BP_Cannon
+[2019.10.06-07.01.17:388][705]LogUObjectHash: Compacting FUObjectHashTables data took   7.66ms
+[2019.10.06-07.01.24:998][984]LogTemp: Repeating last play command: Simulate
+[2019.10.06-07.01.25:032][984]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.10.06-07.01.25:033][984]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.06-07.01.25:033][984]PIE: New page: SIE session: Level1 (2019年10月6日 下午11:01:25)
+[2019.10.06-07.01.25:033][984]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2019.10.06-07.01.25:069][984]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036378s)
+[2019.10.06-07.01.25:071][984]LogAIModule: Creating AISystem for world Level1
+[2019.10.06-07.01.25:071][984]LogPlayLevel: PIE: World Init took: (0.001698s)
+[2019.10.06-07.01.25:071][984]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.038302s)
+[2019.10.06-07.01.25:134][984]LogUObjectHash: Compacting FUObjectHashTables data took   9.60ms
+[2019.10.06-07.01.25:150][984]LogInit: XAudio2 using '扬声器 (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.06-07.01.25:181][984]LogInit: FAudioDevice initialized.
+[2019.10.06-07.01.25:194][984]LogLoad: Game class is 'BP_GameMode_C'
+[2019.10.06-07.01.25:198][984]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.10.06-15.01.25
+[2019.10.06-07.01.25:199][984]LogWorld: Bringing up level for play took: 0.003697
+[2019.10.06-07.01.25:199][984]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2019.10.06-07.01.25:202][984]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level1 -0.087
+[2019.10.06-07.01.25:205][984]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.10.06-07.01.31:208][ 35]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.10.06-07.01.31:208][ 35]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.06-07.01.31:208][ 35]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2019.10.06-07.01.31:211][ 35]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2019.10.06-07.01.31:624][ 35]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.06-07.01.31:625][ 35]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.10.06-07.01.31:710][ 35]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.06-07.01.31:720][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   7.60ms
+[2019.10.06-07.01.31:754][ 36]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.10.06-07.02.27:240][765]BlueprintLog: New page: Compile BP_Cannon
+[2019.10.06-07.02.27:749][765]LogUObjectHash: Compacting FUObjectHashTables data took   6.00ms
+[2019.10.06-07.02.28:184][788]BlueprintLog: New page: Compile BP_Cannon
+[2019.10.06-07.02.28:655][788]LogUObjectHash: Compacting FUObjectHashTables data took   8.45ms
+[2019.10.06-07.02.29:952][857]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BulePrints/BP_Cannon" FILE="../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/BulePrints/BP_Cannon.uasset" SILENT=true
+[2019.10.06-07.02.30:090][857]LogSavePackage: Moving '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Saved/BP_Cannon85C46E954747D9D0986A209F7E67A48A.tmp' to '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/BulePrints/BP_Cannon.uasset'
+[2019.10.06-07.02.31:894][924]MapCheck: New page: Map Check
+[2019.10.06-07.02.31:919][924]Cmd: MAP REBUILD ALLVISIBLE
+[2019.10.06-07.02.31:919][924]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.10.06-07.02.31:960][924]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=false
+[2019.10.06-07.02.32:195][924]LogUObjectHash: Compacting FUObjectHashTables data took  12.89ms
+[2019.10.06-07.02.32:297][924]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. Is special engine material.
+[2019.10.06-07.02.32:370][924]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 38
+[2019.10.06-07.02.32:370][924]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 37
+[2019.10.06-07.02.32:370][924]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 36
+[2019.10.06-07.02.32:370][924]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 35
+[2019.10.06-07.02.32:370][924]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.06-07.02.32:387][924]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.06-07.02.32:406][924]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.06-07.02.32:427][924]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.06-07.02.32:454][924]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.06-07.02.32:481][924]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.06-07.02.32:508][924]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.06-07.02.32:531][924]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.06-07.02.32:557][924]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.06-07.02.32:581][924]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.06-07.02.32:609][924]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.06-07.02.32:638][924]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.06-07.02.32:665][924]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.06-07.02.44:959][924]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 60
+[2019.10.06-07.02.44:959][924]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 59
+[2019.10.06-07.02.44:959][924]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 58
+[2019.10.06-07.02.44:959][924]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 57
+[2019.10.06-07.02.44:959][924]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 56
+[2019.10.06-07.02.44:959][924]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 55
+[2019.10.06-07.02.44:959][924]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 54
+[2019.10.06-07.02.44:959][924]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 53
+[2019.10.06-07.02.44:959][924]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 52
+[2019.10.06-07.02.44:959][924]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 51
+[2019.10.06-07.02.44:959][924]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 50
+[2019.10.06-07.02.44:959][924]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 49
+[2019.10.06-07.02.44:959][924]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 48
+[2019.10.06-07.02.44:959][924]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 47
+[2019.10.06-07.02.44:959][924]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 46
+[2019.10.06-07.02.44:960][924]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 45
+[2019.10.06-07.02.44:960][924]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 44
+[2019.10.06-07.02.44:960][924]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 43
+[2019.10.06-07.02.44:960][924]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 42
+[2019.10.06-07.02.44:960][924]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 41
+[2019.10.06-07.02.44:960][924]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 40
+[2019.10.06-07.02.44:960][924]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 39
+[2019.10.06-07.02.44:960][924]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 38
+[2019.10.06-07.02.44:960][924]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 37
+[2019.10.06-07.02.44:960][924]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 36
+[2019.10.06-07.02.44:960][924]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 35
+[2019.10.06-07.02.44:960][924]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 34
+[2019.10.06-07.02.44:960][924]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 33
+[2019.10.06-07.02.44:960][924]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 32
+[2019.10.06-07.02.44:960][924]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 31
+[2019.10.06-07.02.44:960][924]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 30
+[2019.10.06-07.02.44:960][924]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 29
+[2019.10.06-07.02.44:960][924]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 28
+[2019.10.06-07.02.44:960][924]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 27
+[2019.10.06-07.02.44:960][924]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 26
+[2019.10.06-07.02.44:960][924]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 25
+[2019.10.06-07.02.44:960][924]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 24
+[2019.10.06-07.02.44:960][924]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 23
+[2019.10.06-07.02.44:960][924]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 22
+[2019.10.06-07.02.44:960][924]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 21
+[2019.10.06-07.02.44:960][924]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 20
+[2019.10.06-07.02.44:960][924]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 19
+[2019.10.06-07.02.44:960][924]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 18
+[2019.10.06-07.02.44:960][924]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 17
+[2019.10.06-07.02.44:960][924]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 16
+[2019.10.06-07.02.44:961][924]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 15
+[2019.10.06-07.02.44:961][924]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 14
+[2019.10.06-07.02.44:961][924]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 13
+[2019.10.06-07.02.44:961][924]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2019.10.06-07.02.44:961][924]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2019.10.06-07.02.44:961][924]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2019.10.06-07.02.44:961][924]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2019.10.06-07.02.44:961][924]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2019.10.06-07.02.44:961][924]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2019.10.06-07.02.44:961][924]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2019.10.06-07.02.44:961][924]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2019.10.06-07.02.44:961][924]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2019.10.06-07.02.44:961][924]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2019.10.06-07.02.44:961][924]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2019.10.06-07.02.44:961][924]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2019.10.06-07.02.44:961][924]TextureStreamingBuild: Display: Compiling optional shaders took 12.694 seconds.
+[2019.10.06-07.02.45:393][924]LogLevel: Display: Export Material TexCoord Scales took 0.432 seconds.
+[2019.10.06-07.02.45:469][924]TextureStreamingBuild: Display: Build Texture Streaming took 0.072 seconds.
+[2019.10.06-07.02.45:536][924]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2019.10.06-07.02.45:540][924]LogEditorBuildUtils: Build time 0:13
+[2019.10.06-07.02.47:006][953]LogTemp: Repeating last play command: Simulate
+[2019.10.06-07.02.47:040][953]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.10.06-07.02.47:041][953]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.06-07.02.47:041][953]PIE: New page: SIE session: Level1 (2019年10月6日 下午11:02:47)
+[2019.10.06-07.02.47:041][953]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2019.10.06-07.02.47:097][953]LogPlayLevel: PIE: StaticDuplicateObject took: (0.055933s)
+[2019.10.06-07.02.47:099][953]LogAIModule: Creating AISystem for world Level1
+[2019.10.06-07.02.47:099][953]LogPlayLevel: PIE: World Init took: (0.002131s)
+[2019.10.06-07.02.47:099][953]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.058338s)
+[2019.10.06-07.02.47:324][953]LogUObjectHash: Compacting FUObjectHashTables data took   9.38ms
+[2019.10.06-07.02.47:343][953]LogInit: XAudio2 using '扬声器 (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.06-07.02.47:378][953]LogInit: FAudioDevice initialized.
+[2019.10.06-07.02.47:388][953]LogLoad: Game class is 'BP_GameMode_C'
+[2019.10.06-07.02.47:393][953]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.10.06-15.02.47
+[2019.10.06-07.02.47:395][953]LogWorld: Bringing up level for play took: 0.004791
+[2019.10.06-07.02.47:395][953]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2019.10.06-07.02.47:400][953]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level1 0.111
+[2019.10.06-07.02.47:402][953]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.10.06-07.02.58:372][261]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.10.06-07.02.58:372][261]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.06-07.02.58:372][261]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2019.10.06-07.02.58:376][261]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2019.10.06-07.02.58:445][261]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.06-07.02.58:446][261]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.10.06-07.02.58:535][261]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.06-07.02.58:623][261]LogUObjectHash: Compacting FUObjectHashTables data took   8.12ms
+[2019.10.06-07.02.58:660][262]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.10.06-07.03.40:462][449]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.06-07.03.42:690][572]BlueprintLog: New page: Compile BP_Cannon
+[2019.10.06-07.03.43:071][572]LogUObjectHash: Compacting FUObjectHashTables data took  10.77ms
+[2019.10.06-07.03.44:200][628]LogTemp: Repeating last play command: Simulate
+[2019.10.06-07.03.44:237][628]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.10.06-07.03.44:237][628]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.06-07.03.44:237][628]PIE: New page: SIE session: Level1 (2019年10月6日 下午11:03:44)
+[2019.10.06-07.03.44:237][628]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2019.10.06-07.03.44:277][628]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039565s)
+[2019.10.06-07.03.44:279][628]LogAIModule: Creating AISystem for world Level1
+[2019.10.06-07.03.44:279][628]LogPlayLevel: PIE: World Init took: (0.001958s)
+[2019.10.06-07.03.44:279][628]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.041784s)
+[2019.10.06-07.03.44:346][628]LogUObjectHash: Compacting FUObjectHashTables data took   9.43ms
+[2019.10.06-07.03.44:361][628]LogInit: XAudio2 using '扬声器 (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.06-07.03.44:392][628]LogInit: FAudioDevice initialized.
+[2019.10.06-07.03.44:408][628]LogLoad: Game class is 'BP_GameMode_C'
+[2019.10.06-07.03.44:411][628]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.10.06-15.03.44
+[2019.10.06-07.03.44:412][628]LogWorld: Bringing up level for play took: 0.003261
+[2019.10.06-07.03.44:412][628]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2019.10.06-07.03.44:416][628]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level1 1.127
+[2019.10.06-07.03.44:419][628]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.10.06-07.03.50:564][901]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.10.06-07.03.50:565][901]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.06-07.03.50:565][901]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2019.10.06-07.03.50:568][901]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2019.10.06-07.03.50:594][901]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.06-07.03.50:595][901]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2019.10.06-07.03.50:674][901]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.06-07.03.50:684][901]LogUObjectHash: Compacting FUObjectHashTables data took   7.47ms
+[2019.10.06-07.03.50:721][902]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.10.06-07.03.51:931][963]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BulePrints/BP_Cannon" FILE="../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/BulePrints/BP_Cannon.uasset" SILENT=true
+[2019.10.06-07.03.52:053][963]LogSavePackage: Moving '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Saved/BP_CannonB2436FEC4220F81047F2108AE94F0195.tmp' to '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/BulePrints/BP_Cannon.uasset'
+[2019.10.06-07.03.53:881][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   6.69ms
+[2019.10.06-07.03.53:907][ 49]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1" FILE="../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.06-07.03.53:975][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2019.10.06-07.03.54:481][ 49]LogSavePackage: Moving '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Saved/Level11C0A10494566782A113DF5B1C7D4DE9E.tmp' to '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/Maps/Level1.umap'
+[2019.10.06-07.03.54:526][ 49]LogFileHelpers: Saving map 'Level1' took 0.621
+[2019.10.06-07.04.41:910][714]BlueprintLog: New page: Compile BP_Cannon
+[2019.10.06-07.04.42:304][714]LogUObjectHash: Compacting FUObjectHashTables data took   5.21ms
+[2019.10.06-07.04.42:688][731]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BulePrints/BP_Cannon" FILE="../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/BulePrints/BP_Cannon.uasset" SILENT=true
+[2019.10.06-07.04.42:801][731]LogSavePackage: Moving '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Saved/BP_CannonA0B49B104877E1A7212DF2B988E933AC.tmp' to '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/BulePrints/BP_Cannon.uasset'
+[2019.10.06-07.04.43:889][775]LogUObjectHash: Compacting FUObjectHashTables data took  10.74ms
+[2019.10.06-07.04.43:913][775]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1" FILE="../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.06-07.04.43:979][775]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2019.10.06-07.04.44:480][775]LogSavePackage: Moving '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Saved/Level1023D6FC54FF5FE02CB27439305E1A8B5.tmp' to '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/Maps/Level1.umap'
+[2019.10.06-07.04.44:517][775]LogFileHelpers: Saving map 'Level1' took 0.605
