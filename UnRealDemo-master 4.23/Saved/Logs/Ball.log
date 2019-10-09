@@ -638,3 +638,34 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.09-02.50.33:794][343]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BulePrints/BP_SpotLightFollow" FILE="../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/BulePrints/BP_SpotLightFollow.uasset" SILENT=true
 [2019.10.09-02.50.33:867][343]LogSavePackage: Moving '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Saved/BP_SpotLightFollowC075BD4E4F528E8B1674BE83F844E740.tmp' to '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/BulePrints/BP_SpotLightFollow.uasset'
 [2019.10.09-02.50.47:719][847]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.09-02.52.26:002][455]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.09-02.52.33:215][794]Cmd: DELETE
+[2019.10.09-02.52.33:215][794]Cmd: ACTOR DELETE
+[2019.10.09-02.52.33:235][794]LogEditorActor: Deleted Actor: BP_SpotLightFollow_C
+[2019.10.09-02.52.33:306][794]LogUObjectHash: Compacting FUObjectHashTables data took   6.64ms
+[2019.10.09-02.52.33:307][794]LogEditorActor: Deleted 1 Actors (0.083 secs)
+[2019.10.09-02.52.40:965][128]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.09-02.52.45:299][359]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.09-02.52.51:836][681]Cmd: TRANSACTION UNDO
+[2019.10.09-02.52.51:836][681]LogEditorTransaction: Undo Move Actors
+[2019.10.09-02.52.58:124][976]Cmd: TRANSACTION UNDO
+[2019.10.09-02.52.58:124][976]LogEditorTransaction: Undo Move Actors
+[2019.10.09-02.53.01:404][112]Cmd: TRANSACTION UNDO
+[2019.10.09-02.53.01:405][112]LogEditorTransaction: Undo Move Actors
+[2019.10.09-02.53.05:146][267]Cmd: TRANSACTION UNDO
+[2019.10.09-02.53.05:146][267]LogEditorTransaction: Undo Move Actors
+[2019.10.09-02.53.16:375][767]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.09-02.53.22:660][  8]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.09-02.53.22:691][  8]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1" FILE="../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.09-02.53.22:756][  8]LogUObjectHash: Compacting FUObjectHashTables data took   5.18ms
+[2019.10.09-02.53.23:385][  8]LogSavePackage: Moving '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Saved/Level12AEF7358458D42DDECD8088317BA3804.tmp' to '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/Maps/Level1.umap'
+[2019.10.09-02.53.23:429][  8]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1_BuiltData" FILE="../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/Maps/Level1_BuiltData.uasset" SILENT=true
+[2019.10.09-02.53.23:609][  8]LogSavePackage: Moving '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Saved/Level1_BuiltData24FBC0414F252CBE8D011DB8EA68C7B5.tmp' to '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/Maps/Level1_BuiltData.uasset'
+[2019.10.09-02.53.24:289][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   7.15ms
+[2019.10.09-02.53.38:798][197]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.09-02.53.45:078][413]LogUObjectHash: Compacting FUObjectHashTables data took   5.16ms
+[2019.10.09-02.53.45:091][413]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.09-02.53.45:106][413]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1" FILE="../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.09-02.53.45:173][413]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2019.10.09-02.53.45:744][413]LogSavePackage: Moving '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Saved/Level1B3ECDD294773F45A6D517E9ACABC95B0.tmp' to '../../../../../../Users/76422/Desktop/Ball/UnRealDemo-master 4.23/Content/Maps/Level1.umap'
+[2019.10.09-02.53.45:799][413]LogFileHelpers: Saving map 'Level1' took 0.695
